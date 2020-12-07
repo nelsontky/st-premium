@@ -29,7 +29,11 @@ export class ArticlesService {
 
     const searchResult = fuse.search(previewText, { limit: 1 })[0];
 
-    return { headline, article: searchResult.item };
+    return {
+      headline,
+      paragraphs: searchResult.item.paragraphs,
+      imageAndCaptionLinks: searchResult.item.imageAndLinkCaptions,
+    };
   }
 }
 

@@ -2,6 +2,8 @@ import React from "react";
 import { AppProps } from "next/app";
 import { createMuiTheme, ThemeProvider } from "@material-ui/core/styles";
 import CssBaseline from "@material-ui/core/CssBaseline";
+import Container from "@material-ui/core/Container";
+import { makeStyles } from "@material-ui/core/styles";
 
 const theme = createMuiTheme({
   typography: {
@@ -27,7 +29,16 @@ const theme = createMuiTheme({
   },
 });
 
+const useStyles = makeStyles((theme) => ({
+  root: {
+    paddingTop: theme.spacing(3),
+    paddingBottom: theme.spacing(3),
+  },
+}));
+
 export default function App({ Component, pageProps }: AppProps) {
+  const classes = useStyles();
+
   React.useEffect(() => {
     // Remove the server-side injected CSS.
     const jssStyles = document.querySelector("#jss-server-side");
@@ -35,12 +46,14 @@ export default function App({ Component, pageProps }: AppProps) {
       jssStyles.parentElement.removeChild(jssStyles);
     }
   }, []);
-  
+
   return (
     <>
       <ThemeProvider theme={theme}>
         <CssBaseline />
-        <Component {...pageProps} />
+        <Container maxWidth="sm" className={classes.root}>
+          <Component {...pageProps} />
+        </Container>
       </ThemeProvider>
     </>
   );

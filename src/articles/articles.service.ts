@@ -14,13 +14,25 @@ export class ArticlesService {
 
   async findArticle(pathname: string) {
     const { headline, date, previewText } = await getArticleInfo(pathname);
+
+    const existing = await this.articleModel.find({ pathname }).exec();
+    if (existing.length > 0) {
+      return {
+        headline,
+        paragraphs: existing[0].paragraphs,
+        imageAndCaptionLinks: existing[0].imageAndLinkCaptions,
+      };
+    }
+
     const tomorrow = new Date(date.getTime() + 24 * 60 * 60 * 1000);
     const yesterday = new Date(date.getTime() - 24 * 60 * 60 * 1000);
 
     // Articles from one day ago to one day later
-    const articles = await this.articleModel.find({
-      date: { $in: [yesterday, date, tomorrow].map(formatDate) },
-    });
+    const articles = await this.articleModel
+      .find({
+        date: { $in: [yesterday, date, tomorrow].map(formatDate) },
+      })
+      .exec();
 
     const fuse = new Fuse(articles, {
       isCaseSensitive: false,
@@ -28,6 +40,9 @@ export class ArticlesService {
     });
 
     const searchResult = fuse.search(previewText, { limit: 1 })[0];
+
+    searchResult.item.pathname = pathname;
+    await searchResult.item.save();
 
     return {
       headline,

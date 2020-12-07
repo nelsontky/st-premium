@@ -1,7 +1,7 @@
 import Head from "next/head";
 import { GetServerSideProps } from "next";
 
-export default function Post({ params }: { params: { slug: [string] } }) {
+export default function Post({ params }: { params: { slug: string[] } }) {
   return (
     <div>
       <Head>

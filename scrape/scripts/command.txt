@@ -1,0 +1,1 @@
+wget -U "Googlebot-News" -r -l 1 https://www.pressreader.com/singapore/the-straits-times/20200721

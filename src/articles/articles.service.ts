@@ -34,20 +34,29 @@ export class ArticlesService {
       })
       .exec();
 
-    const fuse = new Fuse(articles, {
+    const joinedParagraphs = articles.map((article) =>
+      article.paragraphs.slice(0, 4).join(" ")
+    );
+
+    const fuse = new Fuse(joinedParagraphs, {
       isCaseSensitive: false,
-      keys: ["paragraphs"],
+      includeScore: true,
+      ignoreFieldNorm: true,
     });
 
-    const searchResult = fuse.search(previewText, { limit: 1 })[0];
+    const searchResult = fuse
+      .search(previewText, { limit: 1 })
+      .filter((result) => result.score < 0.5);
 
-    searchResult.item.pathname = pathname;
-    await searchResult.item.save();
+    const result = articles[searchResult[0].refIndex];
+
+    result.pathname = pathname;
+    await result.save();
 
     return {
       headline,
-      paragraphs: searchResult.item.paragraphs,
-      imageAndCaptionLinks: searchResult.item.imageAndLinkCaptions,
+      paragraphs: result.paragraphs,
+      imageAndCaptionLinks: result.imageAndLinkCaptions,
     };
   }
 }
@@ -65,7 +74,7 @@ async function getArticleInfo(
       return $(this).text();
     })
     .get()
-    .join("");
+    .join(" ");
 
   return { headline, date, previewText };
 }

@@ -1,0 +1,25 @@
+version: "3.8"
+
+services:
+  app:
+    image: node:current-alpine
+    command: sh -c "npm install && npm run start:prod"
+    ports:
+      - 3000:3000
+      - 5000:5000
+    working_dir: /app
+    volumes:
+      - ./:/app
+    network_mode: "host"
+
+  mongo:
+    image: mongo
+    volumes:
+      - st-premium-mongo:/data/db
+    ports:
+      - 27017:27017
+    restart: always
+    network_mode: "host"
+
+volumes:
+  st-premium-mongo:

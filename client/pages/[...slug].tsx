@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Link from "next/link";
 import { GetServerSideProps } from "next";
 import axios from "axios";
 import Typography from "@material-ui/core/Typography";
@@ -35,6 +36,9 @@ export default function Post({
             Article is too old.
           </Typography>
         </ul>
+        <Typography component={Link} href="/" variant="body1">
+          Back to home
+        </Typography>
       </div>
     );
   }

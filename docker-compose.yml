@@ -3,7 +3,7 @@ version: "3.8"
 services:
   app:
     image: node:current-alpine
-    command: sh -c "npm install && npm run start:prod"
+    command: sh -c "npm install && cd client/ && npm install && cd ../ && npm run start:prod"
     ports:
       - 3000:3000
       - 5000:5000
@@ -21,7 +21,7 @@ services:
       - 27017:27017
     restart: always
     network_mode: "host"
-    
+
   scrape:
     image: node:current-alpine
     command: sh -c "npm install -g typescript && npm install && npm run prod"

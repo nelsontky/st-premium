@@ -2,7 +2,7 @@ version: "3.8"
 
 services:
   app:
-    image: node:current-alpine
+    image: node:lts-alpine3.10
     command: sh -c "npm install && cd client/ && npm install && cd ../ && npm run start:prod"
     ports:
       - 3000:3000

@@ -97,5 +97,33 @@ const job = new CronJob({
   },
 });
 
-job.start();
-console.log("Job started");
+if (process.argv.length > 2 && process.argv[2] === "now") {
+  (async () => {
+    const date = getSgDate();
+
+    const todaysArticlesPath = join(
+      __dirname,
+      "..",
+      "..",
+      "www.pressreader.com",
+      "singapore",
+      "the-straits-times",
+      date
+    );
+
+    try {
+      execSync(`rm -rf ${todaysArticlesPath}`);
+    } catch (e) {
+      console.log(e);
+      // Do nothing if folder does not exist
+    }
+
+    console.log(`Downloading started at ${new Date().toString()}`);
+    await downloadTodaysArticles();
+    await addTodaysArticlesToDb();
+    console.log(`Downloaded and added to db at ${new Date().toString()}`);
+  })();
+} else {
+  job.start();
+  console.log("Job started");
+}

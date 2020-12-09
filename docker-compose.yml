@@ -23,7 +23,7 @@ services:
     network_mode: "host"
 
   scrape:
-    image: node:current-alpine
+    image: node:current-buster
     command: sh -c "npm install -g typescript && npm install && npm run prod"
     working_dir: /scrape
     volumes:

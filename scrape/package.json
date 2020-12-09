@@ -5,7 +5,8 @@
   "main": "processDay.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "prod": "tsc -p tsconfig.json && node out/scripts/monitor-articles.js"
+    "prod": "tsc -p tsconfig.json && node out/scripts/monitor-articles.js",
+    "now": "tsc -p tsconfig.json && node out/scripts/monitor-articles.js now"
   },
   "author": "",
   "license": "ISC",

@@ -28,7 +28,6 @@ services:
     working_dir: /scrape
     volumes:
       - ./scrape:/scrape
-    restart: always
     network_mode: "host"
 
 volumes:

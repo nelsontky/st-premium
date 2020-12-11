@@ -1,1 +1,1 @@
-export const MONGO_URI = 'mongodb://127.0.0.1:27017/st-premium';
+export const MONGO_URI = 'mongodb://mongo/st-premium';

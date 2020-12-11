@@ -42,6 +42,7 @@ export class ArticlesService {
       isCaseSensitive: false,
       includeScore: true,
       ignoreFieldNorm: true,
+      ignoreLocation: true,
     });
 
     const searchResult = fuse

@@ -3,15 +3,13 @@ version: "3.8"
 services:
   app:
     image: node:lts-alpine3.10
-    command: sh -c "npm install && cd client/ && npm install && cd ../ && npm run start:prod"
+    command: sh -c "npm install && cd client/ && npm install && cd ../ && npm run start:dev"
     ports:
       - 3000:3000
       - 5000:5000
     working_dir: /app
     volumes:
       - ./:/app
-    restart: always
-    network_mode: "host"
 
   mongo:
     image: mongo
@@ -19,16 +17,6 @@ services:
       - st-premium-mongo:/data/db
     ports:
       - 27017:27017
-    restart: always
-    network_mode: "host"
-
-  scrape:
-    image: node:current-buster
-    command: sh -c "npm install -g typescript && npm install && npm run prod"
-    working_dir: /scrape
-    volumes:
-      - ./scrape:/scrape
-    network_mode: "host"
 
 volumes:
   st-premium-mongo:

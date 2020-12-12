@@ -52,6 +52,7 @@ export default function Post({
         <Typography variant="h6" gutterBottom>
           {article.headline}
         </Typography>
+        {console.log(article.imageAndCaptionLinks)}
         {article.paragraphs.map((paragraph, i) => (
           <Typography key={i} component="p" variant="body1" gutterBottom>
             {paragraph}

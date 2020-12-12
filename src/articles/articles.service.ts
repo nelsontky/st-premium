@@ -13,14 +13,22 @@ export class ArticlesService {
   ) {}
 
   async findArticle(pathname: string) {
-    const { headline, date, previewText } = await getArticleInfo(pathname);
+    const {
+      headline,
+      date,
+      previewText,
+      imageAndLinkCaption,
+    } = await getArticleInfo(pathname);
 
     const existing = await this.articleModel.find({ pathname }).exec();
     if (existing.length > 0) {
       return {
         headline,
         paragraphs: existing[0].paragraphs,
-        imageAndCaptionLinks: existing[0].imageAndLinkCaptions,
+        imageAndCaptionLinks: [
+          imageAndLinkCaption,
+          ...existing[0].imageAndLinkCaptions,
+        ],
       };
     }
 
@@ -57,14 +65,22 @@ export class ArticlesService {
     return {
       headline,
       paragraphs: result.paragraphs,
-      imageAndCaptionLinks: result.imageAndLinkCaptions,
+      imageAndCaptionLinks: [
+        imageAndLinkCaption,
+        ...result.imageAndLinkCaptions,
+      ],
     };
   }
 }
 
 async function getArticleInfo(
   pathname: string
-): Promise<{ headline: string; date: Date; previewText: string }> {
+): Promise<{
+  headline: string;
+  date: Date;
+  previewText: string;
+  imageAndLinkCaption: { imageLink: string; caption: string };
+}> {
   const html = (await axios.get("https://straitstimes.com" + pathname)).data;
   const $ = cheerio.load(html);
 
@@ -76,8 +92,15 @@ async function getArticleInfo(
     })
     .get()
     .join(" ");
+  const imageLink = $("picture > img").attr("src");
+  const caption = $("figure > figcaption").text();
 
-  return { headline, date, previewText };
+  return {
+    headline,
+    date,
+    previewText,
+    imageAndLinkCaption: { imageLink, caption },
+  };
 }
 
 function parseDateText(dateText: string): Date {

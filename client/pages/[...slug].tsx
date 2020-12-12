@@ -3,12 +3,22 @@ import Link from "next/link";
 import { GetServerSideProps } from "next";
 import axios from "axios";
 import Typography from "@material-ui/core/Typography";
+import { makeStyles } from "@material-ui/core/styles";
 
 interface IArticle {
   headline: string;
   paragraphs: string[];
-  imageAndCaptionLinks: { imageLink: string; caption: string }[];
+  imageLinkAndCaption: { imageLink: string; caption: string };
 }
+
+const useStyles = makeStyles((theme) => ({
+  imageContainer: {
+    marginBottom: theme.spacing(1),
+  },
+  image: {
+    maxWidth: "100%",
+  },
+}));
 
 export default function Post({
   article,
@@ -17,6 +27,8 @@ export default function Post({
   article?: IArticle;
   hasError: boolean;
 }) {
+  const classes = useStyles();
+
   if (hasError) {
     return (
       <div>
@@ -52,9 +64,24 @@ export default function Post({
         <Typography variant="h6" gutterBottom>
           {article.headline}
         </Typography>
-        {console.log(article.imageAndCaptionLinks)}
+        {article.imageLinkAndCaption.imageLink && (
+          <div className={classes.imageContainer}>
+            <img
+              className={classes.image}
+              src={article.imageLinkAndCaption.imageLink}
+            />
+            <Typography variant="caption" gutterBottom>
+              {article.imageLinkAndCaption.caption}
+            </Typography>
+          </div>
+        )}
         {article.paragraphs.map((paragraph, i) => (
-          <Typography key={i} component="p" variant="body1" gutterBottom>
+          <Typography
+            key={"paragraph" + i}
+            component="p"
+            variant="body1"
+            gutterBottom
+          >
             {paragraph}
           </Typography>
         ))}

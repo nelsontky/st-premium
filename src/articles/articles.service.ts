@@ -17,7 +17,7 @@ export class ArticlesService {
       headline,
       date,
       previewText,
-      imageAndLinkCaption,
+      imageLinkAndCaption,
     } = await getArticleInfo(pathname);
 
     const existing = await this.articleModel.find({ pathname }).exec();
@@ -25,10 +25,7 @@ export class ArticlesService {
       return {
         headline,
         paragraphs: existing[0].paragraphs,
-        imageAndCaptionLinks: [
-          imageAndLinkCaption,
-          ...existing[0].imageAndLinkCaptions,
-        ],
+        imageLinkAndCaption,
       };
     }
 
@@ -65,10 +62,7 @@ export class ArticlesService {
     return {
       headline,
       paragraphs: result.paragraphs,
-      imageAndCaptionLinks: [
-        imageAndLinkCaption,
-        ...result.imageAndLinkCaptions,
-      ],
+      imageLinkAndCaption,
     };
   }
 }
@@ -79,7 +73,7 @@ async function getArticleInfo(
   headline: string;
   date: Date;
   previewText: string;
-  imageAndLinkCaption: { imageLink: string; caption: string };
+  imageLinkAndCaption: { imageLink: string; caption: string };
 }> {
   const html = (await axios.get("https://straitstimes.com" + pathname)).data;
   const $ = cheerio.load(html);
@@ -99,7 +93,7 @@ async function getArticleInfo(
     headline,
     date,
     previewText,
-    imageAndLinkCaption: { imageLink, caption },
+    imageLinkAndCaption: { imageLink, caption },
   };
 }
 

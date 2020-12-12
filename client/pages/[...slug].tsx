@@ -58,8 +58,45 @@ export default function Post({
   return (
     <div>
       <Head>
+        {/* Primary Meta Tags */}
         <title>{article.headline}</title>
+        <meta name="title" content={article.headline} />
+        {article.paragraphs.length > 0 && (
+          <meta name="description" content={article.paragraphs[0]} />
+        )}
+
+        {/* Open Graph / Facebook */}
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://straitstimes.cf/" />
+        <meta property="og:title" content={article.headline} />
+        {article.paragraphs.length > 0 && (
+          <meta property="og:description" content={article.paragraphs[0]} />
+        )}
+        {article.imageLinkAndCaption.imageLink && (
+          <meta
+            property="og:image"
+            content={article.imageLinkAndCaption.imageLink}
+          />
+        )}
+
+        {/* Twitter */}
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:url" content="https://straitstimes.cf/" />
+        <meta property="twitter:title" content={article.headline} />
+        {article.paragraphs.length > 0 && (
+          <meta
+            property="twitter:description"
+            content={article.paragraphs[0]}
+          />
+        )}
+        {article.imageLinkAndCaption.imageLink && (
+          <meta
+            property="twitter:image"
+            content={article.imageLinkAndCaption.imageLink}
+          ></meta>
+        )}
       </Head>
+      
       <article>
         <Typography variant="h6" gutterBottom>
           {article.headline}

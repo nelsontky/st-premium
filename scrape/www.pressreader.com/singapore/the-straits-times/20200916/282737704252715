@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PressReader - The Straits Times: 2020-09-16 - Tips for incog&#xAD;nito Web brows&#xAD;ing</title>
+    <meta name="description" content="You can surf the In&#xAD;ter&#xAD;net safely in pri&#xAD;vate mode, but be&#xAD;ware &#x2013; this still does not guar&#xAD;an&#xAD;tee com&#xAD;plete se&#xAD;cu&#xAD;rity">
+    <meta content="magazines, newspapers, digital news, reading, news, breaking news, newspaper online" name="keywords">
+    <meta name="Robots" content="NOARCHIVE,NOODP">
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    <link rel="canonical" href="/singapore/the-straits-times/20200916/282737704252715" />
+
+
+    <style>
+        li {
+            margin: 1em 0;
+        }
+        img {
+            max-width: 100%;
+        }
+        p, h1, h2, h3 {
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        
+
+<article>
+    <h1>Tips for incog&#xAD;nito Web brows&#xAD;ing</h1>
+    <h2>You can surf the In&#xAD;ter&#xAD;net safely in pri&#xAD;vate mode, but be&#xAD;ware &#x2013; this still does not guar&#xAD;an&#xAD;tee com&#xAD;plete se&#xAD;cu&#xAD;rity</h2>
+    <section>
+        <a href="/singapore/the-straits-times/textview" title="The Straits Times">The Straits Times</a>
+        - <a href="/singapore/the-straits-times/20200916/textview" title="The Straits Times - 2020-09-16"><time>2020-09-16</time></a>
+        - <span>LIFE TECH</span>
+        - <span role="byline">Raju Chel&#xAD;lam stlife@sph.com.sg&#xD;&#xA;Raju Chel&#xAD;lam is au&#xAD;thor of Or&#xAD;gan Gold, pub&#xAD;lished by the Straits Times Press, on the il&#xAD;le&#xAD;gal trade in hu&#xAD;man or&#xAD;gans on the Dark Web.</span>
+    </section>
+
+    <p>Here’s a likely sce­nario: You’re mul­ti­task­ing on your com­puter and have opened a few tabs in incog­nito, or pri­vate, mode.</p>
+    <p>In one tab, you’re chat­ting with your rel­a­tives. In an­other three, you’re com­par­ing the prices of shoes. Mean­while, the online game you’re play­ing with friends is pop­ping up and prompt­ing you to make your move.</p>
+    <p>While do­ing all this, you spot a pair of shoes you fancy at $50 and click on the “buy” icon in your browser, which opens an­other tab for you to fill in your credit card de­tails. Just then, your game tab springs up again. A cou­ple of min­utes later, you get an au­to­mated SMS say­ing your credit card has been deb­ited for $5,000 – for buy­ing points in an ob­scure game you have never played.</p>
+    <p>What just hap­pened? You have be­come a vic­tim of a “man-in-the-middle” (MITM) attack, which oc­curs when a hacker se­cretly re­lays and al­ters the com­mu­ni­ca­tions be­tween two par­ties who be­lieve they are di­rectly com­mu­ni­cat­ing with each other.</p>
+    <p>The attacker may be eaves­drop­ping on your con­ver­sa­tions or brows­ing ses­sions and can take over the con­ver­sa­tion with­out your knowl­edge.</p>
+    <p>But how can this hap­pen in incog­nito mode? Isn’t it sup­posed to be se­cure and pri­vate?</p>
+    <p>It is – to an ex­tent and if you take pre­cau­tions. Many peo­ple as­sume this mode pro­vides com­plete pri­vacy; this is false.</p>
+    <p>While brows­ing in incog­nito mode pre­vents browsers from stor­ing cook­ies, brows­ing his­tory and pass­words, your In­ter­net ser­vice provider (ISP) can still see and log ev­ery site you visit.</p>
+    <p>The rea­son ISPs au­to­mat­i­cally log Web brows­ing ac­tiv­i­ties – whether you’re brows­ing in incog­nito mode or not – is to make the data avail­able to law en­force­ment if re­quired.</p>
+    <p>More­over, as you may have no­ticed, al­most ev­ery web­site you visit asks you to click on an “ac­cept cook­ies” op­tion to ac­cess its con­tent. Do­ing so pro­vides your In­ter­net Pro­to­col ad­dress – which is your de­fault iden­ti­fier online – to both the web­site and your ISP.</p>
+    <p>The MITM attack likely hap­pened when you ac­cepted cook­ies in one of the pop-ups that ap­peared while you were shop­ping or gam­ing.</p>
+    <p>Still, it’s a good idea to use your browser in incog­nito mode, be­cause it keeps you safe from cook­ies and pop-ups. Here’s what you can ex­pect when you browse in the incog­nito or pri­vate modes of the four most pop­u­lar Web browsers.</p>
+    <p>1</p>
+    <p>GOOGLE CHROME</p>
+    <p>Press the Con­trol-Shift-N keys si­mul­ta­ne­ously while us­ing Google Chrome to launch Chrome in incog­nito mode.</p>
+    <p>This mode helps pro­tect your pri­vacy, es­pe­cially when you’re us­ing a shared com­puter.</p>
+    <p>The web­sites you visit – whether you find them through a search en­gine or by typ­ing in their ad­dresses – will not stay in the browser his­tory. All cook­ies cre­ated will be deleted when you exit the browser.</p>
+    <p>Cook­ies are not shared be­tween reg­u­lar and incog­nito win­dows in Chrome, so you can use the incog­nito win­dow to log in to a web­site with­out log­ging out of ones al­ready opened in reg­u­lar win­dows.</p>
+    <p>For ex­am­ple, you could open an incog­nito win­dow and check your work Gmail ac­count while still logged in to your per­sonal ac­count in a reg­u­lar win­dow, and view your Face­book page in a third incog­nito win­dow.</p>
+    <p>2</p>
+    <p>MI­CROSOFT EDGE</p>
+    <p>Press the Con­trol-Shift-N keys si­mul­ta­ne­ously when us­ing Mi­crosoft Edge to open the browser in its pri­vate, or InPri­vate, mode.</p>
+    <p>The browser will au­to­mat­i­cally delete your brows­ing his­tory, cook­ies, cached images and files, pass­words, aut­ofill form data, site per­mis­sions and hosted app data when you exit the browser. It still al­lows you to save your favourite sites and down­loaded files.</p>
+    <p>If your de­fault search en­gine is Bing, search­ing in the ad­dress bar will be done via InPri­vate search.</p>
+    <p>If you’re con­cerned about chil­dren brows­ing on shared com­put­ers, you can opt for “strict” track­ing to block a ma­jor­ity of au­to­matic track­ers.</p>
+    <p>At the top right cor­ner in Edge, click on the three-dots icon. Then go to Set­tings, click on Pri­vacy, Search and Ser­vices, and opt for ba­sic, bal­anced or strict pri­vacy set­tings.</p>
+    <p>3 FIRE­FOX</p>
+    <p>On Mozilla Fire­fox, you can start a pri­vate brows­ing ses­sion by si­mul­ta­ne­ously press­ing the Con­trol-Shift-P keys on Win­dows PCs or the Com­mand-Shift-P keys on Mac com­put­ers.</p>
+    <p>Fire­fox uses a list of known track­ers pro­vided by Dis­con­nect (dis­con­nect.me), a pri­vacy-fo­cused web­site, and blocks these track­ers and scripts by de­fault. These in­clude so­cial me­dia track­ers, cross-site track­ing cook­ies, fin­ger­print­ers and crypto min­ers. Such track­ers can be hid­den in ads, videos and other on-page con­tent.</p>
+    <p>Note that block­ing these can cause some web­sites to stop work­ing. Down­load con­tent only from sites you trust. Fire­fox uses open-source code which is reg­u­larly au­dited and up­dated. If you want a pri­vacy-fo­cused ver­sion of Fire­fox for mo­bile de­vices, try Fire­fox Focus.</p>
+    <p>4 SA­FARI</p>
+    <p>Ap­ple’s Sa­fari was the first to of­fer pri­vate brows­ing.</p>
+    <p>The phrase was in­tro­duced in 2005 to de­scribe Sa­fari 2.0 fea­tures that lim­ited what the browser would save.</p>
+    <p>Press the Com­mand-Shift-N keys si­mul­ta­ne­ously to open a Pri­vate Win­dow in Sa­fari.</p>
+    <p>The browser tags each Pri­vate Win­dow by dark­en­ing the ad­dress bar. Like Fire­fox, Sa­fari uses pri­vacy tech­nolo­gies from other play­ers, whether you’re brows­ing in stan­dard or pri­vate mode.</p>
+    <p>Its In­tel­li­gent Track­ing Protection also blocks all third-party cook­ies, ads and in­tru­sive ser­vices that may be used to track you as you browse on your Mac or iPhone.</p>
+    <p>STAY SE­CURE</p>
+    <p>Brows­ing in incog­nito or pri­vate modes is an easy way to bump up cy­ber se­cu­rity.</p>
+    <p>While the only fool­proof way to go en­tirely incog­nito is to use a vir­tual pri­vate net­work (VPN) ser­vice, good VPN ser­vices come with monthly subscripti­on fees.</p>
+    <p>Un­less you’re work­ing in a highly sen­si­tive sec­tor or or­gan­i­sa­tion, you don’t re­quire such en­hanced se­cu­rity. If you are, your or­gan­i­sa­tion would al­ready have VPN ser­vices and se­cu­rity poli­cies and pro­to­cols in place that you should use and strictly fol­low.</p>
+
+    <div>
+        <picture>
+            <img src="https://i.prcdn.co/img?regionKey=WZ7ChXp1wcK25FQMbhw15w%3d%3d" />
+        </picture>
+        <span role="byline"></span>
+        <p data-role="text"></p>
+    </div>
+
+</article>
+
+<section>
+    <h3><a href="/catalog/language/english">Newspapers in English</a></h3>
+    <h3><a href="/catalog/country/singapore">Newspapers from Singapore</a></h3>
+</section>
+
+    </div>
+    
+    <p><a href="http://www.pressreader.com">© PressReader. All rights reserved.</a></p>
+
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments);
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g;
+                m.parentNode.insertBefore(a, m);
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        </script>
+        <script>
+            ga('create', 'UA-44408245-1');
+            ga('send', 'pageView');
+        </script>
+</body>
+</html>

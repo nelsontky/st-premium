@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PressReader - The Straits Times: 2020-07-22 - Tips to pre&#xAD;vent drive-by down&#xAD;load at&#xAD;tack</title>
+    <meta name="description" content="Do not in&#xAD;ad&#xAD;ver&#xAD;tently down&#xAD;load ma&#xAD;li&#xAD;cious code into your In&#xAD;ter&#xAD;net-con&#xAD;nected de&#xAD;vice when you visit or browse a web&#xAD;site">
+    <meta content="magazines, newspapers, digital news, reading, news, breaking news, newspaper online" name="keywords">
+    <meta name="Robots" content="NOARCHIVE,NOODP">
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    <link rel="canonical" href="/singapore/the-straits-times/20200722/282480006109914" />
+
+
+    <style>
+        li {
+            margin: 1em 0;
+        }
+        img {
+            max-width: 100%;
+        }
+        p, h1, h2, h3 {
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        
+
+<article>
+    <h1>Tips to pre&#xAD;vent drive-by down&#xAD;load at&#xAD;tack</h1>
+    <h2>Do not in&#xAD;ad&#xAD;ver&#xAD;tently down&#xAD;load ma&#xAD;li&#xAD;cious code into your In&#xAD;ter&#xAD;net-con&#xAD;nected de&#xAD;vice when you visit or browse a web&#xAD;site</h2>
+    <section>
+        <a href="/singapore/the-straits-times/textview" title="The Straits Times">The Straits Times</a>
+        - <a href="/singapore/the-straits-times/20200722/textview" title="The Straits Times - 2020-07-22"><time>2020-07-22</time></a>
+        - <span>LIFE | TECH</span>
+        - <span role="byline">Raju Chel&#xAD;lam stlife@sph.com.sg&#xD;&#xA;&#x2022;&#xD;&#xA;Raju Chel&#xAD;lam is au&#xAD;thor of Or&#xAD;gan Gold, pub&#xAD;lished by the Straits Times Press, on the il&#xAD;le&#xAD;gal trade in hu&#xAD;man or&#xAD;gans on the Dark Web.</span>
+    </section>
+
+    <p>Given that work­ing re­motely, usu­ally from home, has be­come the new nor­mal, most of us are on­line much of the time.</p>
+    <p>Dur­ing your on­line foray, you may visit dozens of web­sites, browse through scores of Web pages and down­load a hand­ful of text, im­age, au­dio or video files.</p>
+    <p>You may have visited le­git­i­mate web­sites and down­loaded stuff only from highly rec­om­mended and sup­pos­edly se­cure Web pages.</p>
+    <p>How­ever, with­out your knowl­edge and con­sent, ma­li­cious code may have at­tempted to au­to­mat­i­cally down­load it­self to your de­vice. If your de­vice’s se­cu­rity is weak, the down­load will be successful and you will be­come one more vic­tim of the drive-by down­load (DBD) at­tack.</p>
+    <p>A DBD at­tack is the un­intentiona­l down­load of ma­li­cious code into your In­ter­net-con­nected de­vice, such as a com­puter or smart­phone, when you visit or browse a web­site.</p>
+    <p>Singapore residents should be es­pe­cially wary be­cause the country has the third-high­est num­ber of DBD hits in the world af­ter Iran and Rus­sia, ac­cord­ing to the re­cent Mi­crosoft Se­cu­rity End­point Threat Re­port.</p>
+    <p>For the re­port, Mi­crosoft culled data from var­i­ous sources, in­clud­ing the eight tril­lion threat sig­nals that it re­ceived and an­a­lysed ev­ery day in all of last year.</p>
+    <p>The other seven places in the top 10 worst-hit list were the United States, In­dia, Viet­nam, France, Ire­land, Hong Kong and Tai­wan – in that or­der.</p>
+    <p>Al­though the re­port tracked DBDs last year, the num­ber of at­tacks would have es­ca­lated this year, given the surge of those work­ing re­motely. Singapore’s DBD at­tacks were 138.5 per cent higher last year com­pared with in 2018.</p>
+    <p>Singapore is an at­trac­tive tar­get due to its ex­cel­lent fi­nan­cial stand­ing.</p>
+    <p>“We usu­ally see cy­ber crim­i­nals launch such at­tacks to steal fi­nan­cial in­for­ma­tion or in­tel­lec­tual property,” says Ms Mary Jo Schrade, Mi­crosoft’s as­sis­tant gen­eral coun­sel of its dig­i­tal crimes unit in Asia. “That is a key rea­son re­gional fi­nan­cial hubs such as Singapore and Hong Kong recorded the high­est vol­ume of such threats.”</p>
+    <p>The DBD at­tack works be­cause of weak­nesses or vul­ner­a­bil­i­ties in three phases.</p>
+    <p>In the first phase, hack­ers scour the Web for the most pop­u­lar web­sites, es­pe­cially those with on­line gam­ing, mu­sic and video con­tent. The hack­ers check for vul­ner­a­bil­i­ties – for in­stance, sites with slop­pily writ­ten code that lack se­cu­rity pro­to­cols or are run­ning on older ver­sions of pro­gram­ming lan­guages. Once such sites are iden­ti­fied, the hacker will in­ject them with an ex­ploit kit or ma­li­cious DBD code.</p>
+    <p>In the sec­ond phase, in­no­cent Web surfers who visit these web­sites and spend time brows­ing, click­ing or down­load­ing le­git­i­mate stuff are at risk. Some­times, merely vis­it­ing an in­fected site will down­load a “cookie” or code that con­tains DBD mal­ware. You will not know the DBD has been down­loaded.</p>
+    <p>In the third phase, the DBD tries to in­stall it­self on your de­vice. If your de­vice has ad­e­quate an­tivirus and anti-mal­ware pro­tec­tion, the DBD will not harm your com­puter or smart­phone. If not, you are at risk of the DBD be­com­ing a drive-by in­stall or DBI. Once in­stalled, your de­vice is in­fected.</p>
+    <p>The crux of the is­sue is that the in­fected web­sites will not know they have been in­fected un­less their se­cu­rity pro­to­cols are fre­quently checked and ver­i­fied. And in­no­cent Web surfers will not know their de­vices have been com­pro­mised un­less the anti-mal­ware soft­ware in­stalled on their de­vices flags it. Cor­po­rate and govern­ment or­gan­i­sa­tions should take note be­cause at­tack­ers can in­fil­trate cor­po­rate in­tranets via the in­fected de­vices of em­ploy­ees work­ing re­motely.</p>
+    <p>Here are seven tips – listed in al­pha­bet­i­cal or­der – to keep you safe from DBD at­tacks:</p>
+    <p>1. AWARE­NESS</p>
+    <p>The aware­ness that something like DBD ex­ists is it­self rare. So just be­ing aware of how it works and what steps you can take to de­fend your­self and your loved ones are vi­tal in keep­ing your brows­ing ac­tiv­i­ties safe.</p>
+    <p>2. BE CAU­TIOUS</p>
+    <p>As with all cy­ber-se­cu­rity mea­sures, the best de­fence is cau­tion. Do not take your se­cu­rity for granted. Avoid go­ing to sus­pi­cious web­sites. Stick to the main­stream, well-es­tab­lished and trusted web­sites.</p>
+    <p>3. CLEAN UP</p>
+    <p>Delete un­nec­es­sary soft­ware and apps in your com­puter and smart­phone. The more plug-ins you have, the more sus­cep­ti­ble you are to in­fec­tion. Keep only soft­ware that you trust and of­ten use.</p>
+    <p>Use the “incog­nito” mode in Chrome or the “InPri­vate” mode in Edge, so you do not need to clear brows­ing his­tory. Your browser will not save cook­ies, tem­po­rary In­ter­net files or your brows­ing his­tory when you are in incog­nito mode, giv­ing you some level of pro­tec­tion.</p>
+    <p>4. DE­FENDER</p>
+    <p>If you use a Win­dows PC, keep its Mi­crosoft De­fender soft­ware up­dated and all patches cur­rent.</p>
+    <p>On your PC, go to Win­dows Se­cu­rity and en­sure the following have green ticks: virus and threat pro­tec­tion, ac­count pro­tec­tion, fire­wall and net­work pro­tec­tion, app and browser con­trol, and de­vice se­cu­rity.</p>
+    <p>5. END-POINT SE­CU­RITY</p>
+    <p>In­vest in end-point se­cu­rity solutions, avail­able from Trend Mi­cro, Kasper­sky, McAfee and other ven­dors. It is also a good idea to use an ad-blocker, as DBD at­tacks of­ten use on­line ad­ver­tise­ments to upload in­fec­tions.</p>
+    <p>Also, auto-up­date your Web browser and op­er­at­ing sys­tem – DBD in­fec­tions oc­cur be­cause op­er­at­ing sys­tems are not cur­rent.</p>
+    <p>6. FIND ES­SEN­TIAL SCRIPTS</p>
+    <p>Tech-savvy users can use script-block­ers such as NoScript. You can add this to any browser.</p>
+    <p>A “script” is code that runs in the back­ground to au­to­mate tasks such as upload­ing text, im­ages or video on a Web page.</p>
+    <p>A “script-blocker” lets you dis­able all the scripts in a given Web page and then se­lec­tively en­able in­di­vid­ual scripts one by one, so you know which scripts are es­sen­tial for the page to func­tion.</p>
+    <p>7. GET A VPN</p>
+    <p>For busi­nesses, equip­ping re­mote users with a se­cure vir­tual pri­vate net­work (VPN) is a must.</p>
+    <p>Most in­di­vid­ual users do not use VPNs. Brows­ing web­sites via a VPN can al­most en­sure that your com­puter will not get in­fected be­cause end­ing the VPN ses­sion af­ter your work is done closes all pages in­stantly and it does not link your Web-brows­ing ses­sion to your com­puter.</p>
+
+    <div>
+        <picture>
+            <img src="https://i.prcdn.co/img?regionKey=uTW3DMBq9OqjkAq6s8Yhzw%3d%3d" />
+        </picture>
+        <span role="byline"></span>
+        <p data-role="text"></p>
+    </div>
+
+</article>
+
+<section>
+    <h3><a href="/catalog/language/english">Newspapers in English</a></h3>
+    <h3><a href="/catalog/country/singapore">Newspapers from Singapore</a></h3>
+</section>
+
+    </div>
+    
+    <p><a href="http://www.pressreader.com">© PressReader. All rights reserved.</a></p>
+
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments);
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g;
+                m.parentNode.insertBefore(a, m);
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        </script>
+        <script>
+            ga('create', 'UA-44408245-1');
+            ga('send', 'pageView');
+        </script>
+</body>
+</html>

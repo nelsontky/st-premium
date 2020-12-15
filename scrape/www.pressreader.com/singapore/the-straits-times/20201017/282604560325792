@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PressReader - The Straits Times: 2020-10-17 - TorqueShop</title>
+    <meta name="description" content="">
+    <meta content="magazines, newspapers, digital news, reading, news, breaking news, newspaper online" name="keywords">
+    <meta name="Robots" content="NOARCHIVE,NOODP">
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    <link rel="canonical" href="/singapore/the-straits-times/20201017/282604560325792" />
+
+
+    <style>
+        li {
+            margin: 1em 0;
+        }
+        img {
+            max-width: 100%;
+        }
+        p, h1, h2, h3 {
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        
+
+<article>
+    <h1>TorqueShop</h1>
+    <h2></h2>
+    <section>
+        <a href="/singapore/the-straits-times/textview" title="The Straits Times">The Straits Times</a>
+        - <a href="/singapore/the-straits-times/20201017/textview" title="The Straits Times - 2020-10-17"><time>2020-10-17</time></a>
+        - <span>LIFE | MOTORING</span>
+        - <span role="byline">Shree&#xAD;jit Changaroth</span>
+    </section>
+
+    <p>I un­der­stand that a car with more power is faster, but am not clear what torque is and what it means to a car’s per­for­mance. What is the re­la­tion­ship between power and torque, and is it be the same for an elec­tric ve­hi­cle (EV)?</p>
+    <p>Power is a de­rived value, cal­cu­lated as a prod­uct of torque and the en­gine’s speed.</p>
+    <p>Since en­gine speed is a func­tion of time, the cal­cu­lated value of power</p>
+    <p>(Nm per sec­ond or Nm/s) is work done per unit time or the rate at which work is done. In met­ric units, 1 Nm/s is equal to 1 watt.</p>
+    <p>Hence, if an en­gine is pro­duc­ing 200Nm of torque at 3,000rpm, you can calculate its power at that speed as fol­lows: 200Nm x 3,000rpm x 0.1047 = 62,820W or 62.82kW</p>
+    <p>(or around 85hp).</p>
+    <p>An in­ter­nal com­bus­tion en­gine’s (ICE) torque out­put is not con­stant. It rises steadily with en­gine rpm up to a point, and then be­gins to di­min­ish even though en­gine speed can con­tinue to rise.</p>
+    <p>An ICE pro­duces max­i­mum power when the com­bi­na­tion of en­gine speed and torque re­sults in the high­est math­e­mat­i­cal prod­uct of torque and en­gine speed.</p>
+    <p>For ex­am­ple, even though max­i­mum torque oc­curs at 3,000rpm and falls off af­ter that, be­cause en­gine speed con­tin­ues to rise to 6,000rpm or more, power con­tin­ues to in­crease.</p>
+    <p>Mod­ern forced in­duc­tion en­gines de­velop much higher torque across a range of rpm. Ob­vi­ously then, within this win­dow of con­stant torque, the rise in power is more lin­ear. This is why most tur­bocharged cars to­day feel very punchy in the mid-range.</p>
+    <p>On the other hand, a nor­mally as­pi­rated For­mula One V8 en­gine that has been used pre­vi­ously can be rated at 758hp de­spite pro­duc­ing just 300Nm of torque (less than a Volk­swa­gen Golf GTI), be­cause its en­gine speed reaches 18,000rpm.</p>
+    <p>The same prin­ci­ples ap­ply to an elec­tric mo­tor. What is dis­tinctly dif­fer­ent is the way the mo­tor de­vel­ops torque. It does not have to spin at any par­tic­u­lar speed for the torque to rise.</p>
+    <p>In­stead, as soon as the mo­tor be­gins to spin, it achieves its max­i­mum torque within frac­tions of a sec­ond, con­tin­u­ing to main­tain this fig­ure up to its max­i­mum rated speed (af­ter which the torque be­gins to tail off).</p>
+    <p>It is this trait which makes EVs highly re­spon­sive when ac­cel­er­at­ing from low speeds.</p>
+
+
+</article>
+
+<section>
+    <h3><a href="/catalog/language/english">Newspapers in English</a></h3>
+    <h3><a href="/catalog/country/singapore">Newspapers from Singapore</a></h3>
+</section>
+
+    </div>
+    
+    <p><a href="http://www.pressreader.com">© PressReader. All rights reserved.</a></p>
+
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments);
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g;
+                m.parentNode.insertBefore(a, m);
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        </script>
+        <script>
+            ga('create', 'UA-44408245-1');
+            ga('send', 'pageView');
+        </script>
+</body>
+</html>

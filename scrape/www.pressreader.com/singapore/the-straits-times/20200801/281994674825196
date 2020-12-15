@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PressReader - The Straits Times: 2020-08-01 - How do you know a hu&#xAD;man wrote this?</title>
+    <meta name="description" content="">
+    <meta content="magazines, newspapers, digital news, reading, news, breaking news, newspaper online" name="keywords">
+    <meta name="Robots" content="NOARCHIVE,NOODP">
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    <link rel="canonical" href="/singapore/the-straits-times/20200801/281994674825196" />
+
+
+    <style>
+        li {
+            margin: 1em 0;
+        }
+        img {
+            max-width: 100%;
+        }
+        p, h1, h2, h3 {
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        
+
+<article>
+    <h1>How do you know a hu&#xAD;man wrote this?</h1>
+    <h2></h2>
+    <section>
+        <a href="/singapore/the-straits-times/textview" title="The Straits Times">The Straits Times</a>
+        - <a href="/singapore/the-straits-times/20200801/textview" title="The Straits Times - 2020-08-01"><time>2020-08-01</time></a>
+        - <span>OPINION</span>
+        - <span role="byline">Farhad Man&#xAD;joo</span>
+    </section>
+
+    <p>I’ve never re­ally worried that com­put­ers might be gun­ning for my job. To tell the truth, of­ten, I pray for it. How much bet­ter would my life be – how much bet­ter would my ed­i­tor’s life be, to say noth­ing of the poor read­ers – if I could ask an all-know­ing ma­chine to sug­gest the best way to start this col­umn? It would surely beat my usual writ­ing process, which in­volves claw­ing at my brain with a rusty pick­axe in the dim hope that a few flakes of wis­dom and insight might, like dan­druff, set­tle on the page.</p>
+    <p>See what I mean? A com­puter might have helped there. (Like dan­druff? That’s what you’re go­ing with, Farhad?) But we writ­ers can be a cocky bunch. Writ­ing is some­thing of an in­ex­pli­ca­ble trick, and it feels, like telling a joke or mak­ing a souf­fle, like an in­vi­o­lably hu­man en­deav­our.</p>
+    <p>I’ve never re­ally worried that a com­puter might take my job be­cause it’s never seemed re­motely pos­si­ble. Not in­fre­quently, my phone thinks I meant to write the word “duck­ing”. A com­puter writ­ing a news­pa­per col­umn? That’ll be the day.</p>
+    <p>Well, writer friends, the day is nigh. This month, Ope­nAI, an ar­ti­fi­cial-in­tel­li­gence re­search lab based in San Fran­cisco, be­gan al­low­ing lim­ited ac­cess to a piece of soft­ware that is at once amaz­ing, spooky, hum­bling and more than a lit­tle ter­ri­fy­ing.</p>
+    <p>Ope­nAI’s new soft­ware, called GPT-3, is by far the most pow­er­ful “lan­guage model” ever cre­ated. A lan­guage model is an ar­ti­fi­cial in­tel­li­gence sys­tem that has been trained on an enor­mous cor­pus of text; with enough text and enough pro­cess­ing, the ma­chine be­gins to learn prob­a­bilis­tic con­nec­tions be­tween words. More plainly: GPT-3 can read and write. And not badly, either.</p>
+    <p>Soft­ware like GPT-3 could be enor­mously use­ful. Machines that can un­der­stand and re­spond to hu­mans in our own lan­guage could cre­ate more help­ful dig­i­tal as­sis­tants, more re­al­is­tic video game char­ac­ters, or vir­tual teach­ers per­son­alised to ev­ery stu­dent’s learn­ing style. In­stead of writ­ing code, one day you might cre­ate soft­ware just by telling machines what to do.</p>
+    <p>Ope­nAI has given just a few hun­dred soft­ware de­vel­op­ers ac­cess to GPT-3, and many have been fill­ing Twit­ter over the past few weeks with de­mon­stra­tions of its sur­pris­ing ca­pa­bil­i­ties, which range from the mun­dane to the sub­lime to the pos­si­bly quite dan­ger­ous.</p>
+    <p>To ap­pre­ci­ate the po­ten­tial dan­ger, it helps to un­der­stand how GPT-3 works. Lan­guage mod­els of­ten need to be trained for spe­cific uses – a cus­tomer-ser­vice bot used by a re­tailer might need to be fine-tuned with data about prod­ucts, while a bot used by an air­line would need to learn about flights. But GPT-3 doesn’t need much ex­tra train­ing. Give GPT-3 a nat­u­ral-lan­guage prompt – “I hereby re­sign from Dun­der-Mif­flin” or “Dear John, I’m leav­ing you” – and the soft­ware will fill in the rest with text that is eerily close to what a hu­man would pro­duce.</p>
+    <p>These aren’t canned re­sponses. GPT-3 is ca­pa­ble of gen­er­at­ing en­tirely orig­i­nal, co­her­ent and some­times even fac­tual prose. And not just prose – it can write po­etry, di­a­logue, memes, com­puter code and who knows what else.</p>
+    <p>GPT-3’s flex­i­bil­ity is a key ad­vance. Mr Matt Shumer, the chief ex­ec­u­tive of a com­pany called Other­sideAI, is us­ing GPT-3 to build a ser­vice that re­sponds to e-mail on your be­half – you write the gist of what you’d like to say, and the com­puter cre­ates a full, nu­anced, po­lite e-mail out of your bul­let points.</p>
+    <p>An­other com­pany, Lat­i­tude, is us­ing GPT-3 to build re­al­is­tic, in­ter­ac­tive char­ac­ters in text-ad­ven­ture games. It works sur­pris­ingly well – the soft­ware is not only co­her­ent but also can be quite in­ven­tive, ab­surd and even funny.</p>
+    <p>Writer Stew Fortier cre­ated a zany satire us­ing the soft­ware as a kind of muse.</p>
+    <p>He fed GPT-3 a strange prompt: “Below is a tran­script from an in­ter­view where Barack Obama ex­plained why he was banned from Golden Cor­ral for life.”</p>
+    <p>The sys­tem then filled in the rest of the in­ter­view, run­ning with the con­cept that Mr Obama had been banned from an all-you-can-eat buf­fet.</p>
+    <p>Obama: Yes. It’s true. I am no longer al­lowed in Golden Cor­ral. In­ter­viewer: Is this be­cause of your ex­ten­sive shrimp-n-crab legs pol­icy?</p>
+    <p>Obama: Ab­so­lutely. In­ter­viewer: What is your ex­ten­sive shrimp-n-crab legs pol­icy?</p>
+    <p>Obama: Oh, well, in brief, they were of­fer­ing an all-you-can-eat shrimp-n-crab leg buf­fet, and I did not hes­i­tate. Af­ter I ate so much shrimp and crab that my stom­ach hurt, I would qui­etly sneak in and throw more shrimp and crab onto my plate. I did this over and over again un­til I had cleaned out the buf­fet and was full of shrimp-n-crab.</p>
+    <p>Yet soft­ware like GPT-3 raises the prospect of fright­en­ing mis­use. If com­put­ers can pro­duce large amounts of hu­man-like text, how will we ever be able to tell hu­mans and machines apart? In a re­search pa­per de­tail­ing GPT-3’s power, its cre­ators cite a litany of dan­gers, in­clud­ing “mis­in­for­ma­tion, spam, phish­ing, abuse of le­gal and gov­ern­men­tal pro­cesses, fraud­u­lent aca­demic es­say writ­ing and so­cial engi­neer­ing pre­tex­ting”.</p>
+    <p>There are other prob­lems. Be­cause it was trained on text found on­line, it’s likely that GPT-3 mir­rors many bi­ases found in so­ci­ety. How can we make sure the text it pro­duces is not racist or sex­ist? GPT-3 also isn’t good at telling fact from fic­tion.</p>
+    <p>“I gave it my own orig­i­nal three sen­tences about whales, and it added orig­i­nal text – and the way I could tell it was orig­i­nal was that it was pretty much dead wrong,” Ms Janelle Shane, who runs a blog called AI Weird­ness, told me.</p>
+    <p>To its credit, Ope­nAI has put in place many pre­cau­tions. For now, the com­pany is let­ting only a small num­ber of peo­ple use the sys­tem, and it is vet­ting each ap­pli­ca­tion pro­duced with it. The com­pany also pro­hibits GPT-3 from im­per­son­at­ing hu­mans – that is, all text pro­duced by the soft­ware must dis­close that it was writ­ten by a bot. Ope­nAI has also in­vited out­side re­searchers to study the sys­tem’s bi­ases, in the hope of mit­i­gat­ing them.</p>
+    <p>These pre­cau­tions may be enough for now. But GPT-3 is so good at ap­ing hu­man writ­ing that it some­times gave me chills. Not too long from now, your hum­ble cor­re­spon­dent might be put out to pas­ture by a ma­chine – and you might even miss me when I’m gone.</p>
+
+
+</article>
+
+<section>
+    <h3><a href="/catalog/language/english">Newspapers in English</a></h3>
+    <h3><a href="/catalog/country/singapore">Newspapers from Singapore</a></h3>
+</section>
+
+    </div>
+    
+    <p><a href="http://www.pressreader.com">© PressReader. All rights reserved.</a></p>
+
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments);
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g;
+                m.parentNode.insertBefore(a, m);
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        </script>
+        <script>
+            ga('create', 'UA-44408245-1');
+            ga('send', 'pageView');
+        </script>
+</body>
+</html>

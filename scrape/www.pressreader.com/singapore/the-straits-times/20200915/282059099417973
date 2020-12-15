@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PressReader - The Straits Times: 2020-09-15 - Grab fined $10k over fourth data pri&#xAD;vacy breach in two years</title>
+    <meta name="description" content="">
+    <meta content="magazines, newspapers, digital news, reading, news, breaking news, newspaper online" name="keywords">
+    <meta name="Robots" content="NOARCHIVE,NOODP">
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    <link rel="canonical" href="/singapore/the-straits-times/20200915/282059099417973" />
+
+
+    <style>
+        li {
+            margin: 1em 0;
+        }
+        img {
+            max-width: 100%;
+        }
+        p, h1, h2, h3 {
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        
+
+<article>
+    <h1>Grab fined $10k over fourth data pri&#xAD;vacy breach in two years</h1>
+    <h2></h2>
+    <section>
+        <a href="/singapore/the-straits-times/textview" title="The Straits Times">The Straits Times</a>
+        - <a href="/singapore/the-straits-times/20200915/textview" title="The Straits Times - 2020-09-15"><time>2020-09-15</time></a>
+        - <span>HOME</span>
+        - <span role="byline">Lester Wong lesterw@sph.com.sg</span>
+    </section>
+
+    <p>Ride-hail­ing op­er­a­tor Grab has been fined $10,000 for fail­ing to se­cure its driv­ers’ and pas­sen­gers’ per­sonal de­tails on its mo­bile app, the fourth time in two years that it has been found to have breached data protection laws.</p>
+    <p>Ac­cord­ing to a writ­ten de­ci­sion by the Per­sonal Data Protection Com­mis­sion (PDPC) pub­lished last Thurs­day, a soft­ware up­date to Grab’s ride-hail­ing app on Aug 30 last year ex­posed the per­sonal data of 21,541 GrabHitch driv­ers and pas­sen­gers to the risk of unau­tho­rised ac­cess.</p>
+    <p>The up­date was meant to fix a po­ten­tial vul­ner­a­bil­ity de­tected by Grab by re­mov­ing a vari­able from a link in the app’s in­ter­face that al­lows GrabHitch driv­ers to ac­cess their data. But, with­out this vari­able, the app could no longer dif­fer­en­ti­ate be­tween driv­ers, and as a result pro­vided the same data to all driv­ers for 10 sec­onds be­fore new data could be re­trieved.</p>
+    <p>The data ex­posed in­cluded pro­file pic­tures, pas­sen­ger names, ve­hi­cle plate num­bers as well as pick-up and drop-off lo­ca­tions and times.</p>
+    <p>Upon be­ing no­ti­fied of the in­ci­dent, Grab rolled back the app to the ver­sion prior to the up­date and no­ti­fied 5,651 GrabHitch driv­ers on the same day. It also no­ti­fied the PDPC of the breach.</p>
+    <p>PDPC deputy com­mis­sioner Yeong Zee Kin noted that suf­fi­ciently ro­bust pro­cesses were not put in place to manage changes to Grab’s IT sys­tem, call­ing the breach</p>
+    <p>“a par­tic­u­larly grave er­ror”, given that it was the sec­ond time Grab had made a mis­take of this na­ture.</p>
+    <p>The com­pany was fined $16,000 in June last year for dis­clos­ing the names and mo­bile phone num­bers of 120,747 cus­tomers in mar­ket­ing e-mails sent out to other cus­tomers.</p>
+    <p>Mr Yeong said: “In de­ter­min­ing the di­rec­tions, if any, to be im­posed... I have also taken into con­sid­er­a­tion that this is the fourth time (Grab) has been found in breach of Sec­tion 24 of the Per­sonal Data Protection Act.</p>
+    <p>“Given that (Grab’s) busi­ness in­volves pro­cess­ing large vol­umes of per­sonal data on a daily ba­sis, this is a sig­nif­i­cant cause for con­cern.”</p>
+    <p>In June last year, no fi­nan­cial penalty was im­posed on Grab for an­other in­ci­dent in­volv­ing the disclosure of per­sonal data of some GrabHitch pas­sen­gers by GrabHitch driv­ers with­out con­sent on so­cial me­dia.</p>
+    <p>In Oct 2018, Grab was fined $6,000 for fail­ing to make rea­son­able se­cu­rity ar­range­ments to pre­vent the unau­tho­rised disclosure of GrabHitch driv­ers’ per­sonal data.</p>
+    <p>A Grab spokesman said yes­ter­day: “The se­cu­rity of data and the pri­vacy of our users is of ut­most im­por­tance to us, and we are sorry for dis­ap­point­ing them.”</p>
+    <p>To pre­vent a re­cur­rence, Grab has since in­tro­duced more ro­bust pro­cesses in its IT en­vi­ron­ment testing, along with up­dated gov­er­nance pro­ce­dures and a re­view of legacy ap­pli­ca­tion and source codes, the spokesman added.</p>
+
+
+</article>
+
+<section>
+    <h3><a href="/catalog/language/english">Newspapers in English</a></h3>
+    <h3><a href="/catalog/country/singapore">Newspapers from Singapore</a></h3>
+</section>
+
+    </div>
+    
+    <p><a href="http://www.pressreader.com">© PressReader. All rights reserved.</a></p>
+
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments);
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g;
+                m.parentNode.insertBefore(a, m);
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        </script>
+        <script>
+            ga('create', 'UA-44408245-1');
+            ga('send', 'pageView');
+        </script>
+</body>
+</html>

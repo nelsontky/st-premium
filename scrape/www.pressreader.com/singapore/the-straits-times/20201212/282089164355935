@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>FireEye hack por&#xAD;tends a scary era of cy&#xAD;ber in&#xAD;se&#xAD;cu&#xAD;rity - PressReader</title>
+    <meta name="description" content="What hap&#xAD;pens when a top cy&#xAD;ber-se&#xAD;cu&#xAD;rity com&#xAD;pany whose job is to pro&#xAD;tect its clients from hack&#xAD;ers is it&#xAD;self hacked and its tools of the trade stolen?">
+    <meta content="magazines, newspapers, digital news, reading, news, breaking news, newspaper online" name="keywords">
+    <meta name="Robots" content="NOARCHIVE,NOODP">
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    <link rel="canonical" href="/singapore/the-straits-times/20201212/282089164355935" />
+
+
+    <style>
+        li {
+            margin: 1em 0;
+        }
+        img {
+            max-width: 100%;
+        }
+        p, h1, h2, h3 {
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        
+
+<article>
+    <h1>FireEye hack por&#xAD;tends a scary era of cy&#xAD;ber in&#xAD;se&#xAD;cu&#xAD;rity</h1>
+    <h2>What hap&#xAD;pens when a top cy&#xAD;ber-se&#xAD;cu&#xAD;rity com&#xAD;pany whose job is to pro&#xAD;tect its clients from hack&#xAD;ers is it&#xAD;self hacked and its tools of the trade stolen?</h2>
+    <section>
+        <a href="/singapore/the-straits-times/textview" title="The Straits Times">The Straits Times</a>
+        - <a href="/singapore/the-straits-times/20201212/textview" title="The Straits Times - 2020-12-12"><time>2020-12-12</time></a>
+        - <span>OPINION</span>
+        - <span role="byline">Ti&#xAD;mothy L. O&#x2019;Brien BLOOMBERG Ti&#xAD;mothy L. O&#x2019;Brien is a se&#xAD;nior colum&#xAD;nist for Bloomberg Opin&#xAD;ion.</span>
+    </section>
+
+    <p>Un­less you’re an in­for­ma­tion tech­nol­ogy guru, or some­one whose pro­fes­sional du­ties in­clude pro­tect­ing com­puter net­works from cy­ber at­tacks, you may not have heard of FireEye, a lit­tle com­pany in Mil­pi­tas, Cal­i­for­nia, spe­cial­is­ing in dig­i­tal war­fare.</p>
+    <p>But you should pay at­ten­tion to what hap­pened to FireEye re­cently, be­cause it speaks vol­umes about per­sis­tent threats to pri­vate and pub­lic se­cu­rity – and the high-stakes rob­beries that plague even the most so­phis­ti­cated op­er­a­tors.</p>
+    <p>FireEye chief ex­ec­u­tive Kevin Man­dia dis­closed on Tues­day that his com­pany’s servers had been hacked. Given that the com­pany is a go-to en­ter­prise for gov­ern­ments and cor­po­ra­tions blood­ied by hack­ers and rely on FireEye to de­fend or res­cue them by iden­ti­fy­ing and block­ing breaches, Mr Man­dia’s dis­clo­sure is re­veal­ing.</p>
+    <p>“Based on my 25 years in cy­ber se­cu­rity and re­spond­ing to in­ci­dents, I’ve con­cluded we are wit­ness­ing an at­tack by a na­tion with top-tier of­fen­sive ca­pa­bil­i­ties. This at­tack is dif­fer­ent from the tens of thou­sands of in­ci­dents we have re­sponded to through­out the years,” Mr Man­dia said.</p>
+    <p>“The at­tack­ers tai­lored their world-class ca­pa­bil­i­ties specif­i­cally to tar­get and at­tack FireEye. They are highly trained in op­er­a­tional se­cu­rity and ex­e­cuted with dis­ci­pline and fo­cus. They op­er­ated clan­des­tinely, us­ing meth­ods that counter se­cu­rity tools and foren­sic ex­am­i­na­tion. They used a novel com­bi­na­tion of tech­niques not wit­nessed by us or our part­ners in the past.”</p>
+    <p>Wow. Who are th­ese guys? While the Fed­eral Bureau of In­ves­ti­ga­tion would at­tribute the FireEye hack only to an “ac­tor” that seemed to be a “na­tion state”, re­porters with The Wash­ing­ton Post were more spe­cific: It was Rus­sia, they said. And not just any Rus­sians, but a group known as “APT29” or “Cozy Bear”, hack­ers af­fil­i­ated with the Krem­lin’s in­tel­li­gence ser­vices.</p>
+    <p>Cozy Bear’s pedi­gree in­cludes past hacks of the State De­part­ment and the White House dur­ing the Obama ad­min­is­tra­tion and, per­haps most fa­mously, of the Demo­cratic Na­tional Com­mit­tee’s servers dur­ing the 2016 presidenti­al cam­paign. (Who did the State De­part­ment and the White House re­cruit to clean up the ear­lier breaches? FireEye.)</p>
+    <p>RED TEAM TOOLS</p>
+    <p>FireEye said the hack­ers pil­fered its so-called “Red Team” tools. That’s the stuff com­pa­nies like FireEye use to test vul­ner­a­bil­i­ties of com­puter net­works to make them more re­silient. The tools are meant to mimic a com­plex as­sault and now they’re in the hands of a hos­tile player.</p>
+    <p>Ac­cord­ing to FireEye, the hack­ers fo­cused pri­mar­ily on in­for­ma­tion from its gov­ern­ment clients, and it re­leased 300 coun­ter­mea­sures for its cus­tomers and the pub­lic to use against hacks en­abled by the stolen tools.</p>
+    <p>The com­pany also said that it hadn’t seen any of its tools used yet for break-ins and none in­volved “zero-day” ex­ploits – mean­ing the mal­ware wasn’t used to sneak into and derail a net­work be­fore de­fen­sive patches could be ap­plied.</p>
+    <p>“We do not be­lieve that this theft will greatly ad­vance the at­tacker’s over­all ca­pa­bil­i­ties,” FireEye noted. Maybe.</p>
+    <p>We won’t re­ally know how at­tack­ers might use the good­ies they ripped off from FireEye un­til they start try­ing. The Cy­ber Se­cu­rity & In­fra­struc­ture Se­cu­rity Agency, a US fed­eral body that mon­i­tors dig­i­tal se­cu­rity, said the thieves could use FireEye’s tools to “take con­trol of tar­geted sys­tems”.</p>
+    <p>Eter­nalBlue, a hack­ing tool that the Na­tional Se­cu­rity Agency (NSA) de­vel­oped to ex­ploit vul­ner­a­bil­i­ties in Mi­crosoft’s Win­dows op­er­at­ing sys­tem, got out into the wild af­ter the NSA it­self was in­fil­trated in 2017. Hack­ers suc­cess­fully used Eter­nalBlue to at­tack net­works for at least a year af­ter the tool was leaked.</p>
+    <p>THE CLIENTS</p>
+    <p>In ad­di­tion to the United States fed­eral gov­ern­ment, FireEye’s cus­tomers have in­cluded the city and county of San Fran­cisco, the Univer­sity of South Carolina, the Penn State Health Mil­ton S. Her­shey Med­i­cal Cen­tre,</p>
+    <p>Sony and Equifax.</p>
+    <p>The com­pany says it has more than 9,600 cus­tomers in 103 coun­tries, in­clud­ing more than 50 per cent of Forbes’ Global 2000 com­pa­nies. It also pro­vides dig­i­tal pro­tec­tion to more than 1,000 gov­ern­ment and law en­force­ment agencies world­wide.</p>
+    <p>If FireEye it­self can be hacked, who can’t be?</p>
+    <p>In­vestors aren’t happy with the com­pany. Its share price has plunged more than 13 per cent since it dis­closed the at­tack.</p>
+    <p>FireEye pre­sum­ably had lots of com­plex mal­ware source code on its servers and ei­ther it was lax about leav­ing sen­si­tive data con­nected to a net­work that out­siders could ac­cess, or its vaunted se­cu­rity pro­to­cols weren’t bul­let­proof.</p>
+    <p>It’s also pos­si­ble that the hack­ers weren’t af­ter FireEye’s Red Team tools or even client data. They may have sim­ply wanted to learn how much con­fi­den­tial in­for­ma­tion FireEye had in its vaults about the world’s most so­phis­ti­cated dig­i­tal ma­raud­ers – folks like Cozy Bear.</p>
+    <p>In a world pop­u­lated with Cozy Bears there are plenty of po­ten­tial tar­gets. FireEye isn’t the first se­cu­rity firm to be breached.</p>
+    <p>RSA Se­cu­rity, the com­pany that makes Se­curIDs, was hacked back in 2011, for ex­am­ple. Du­pli­cates of RSA’s com­pro­mised to­kens were used to hack Lock­heed Mar­tin, a ma­jor de­fence con­trac­tor. This year alone, North Korea and Rus­sia have re­peat­edly tried to hack the servers of phar­ma­ceu­ti­cal com­pa­nies pur­su­ing a Covid-19 vac­cine.</p>
+    <p>In July, Bri­tish and Amer­i­can cy­ber-se­cu­rity agencies ac­cused Cozy Bear of try­ing to hack a num­ber of uniden­ti­fied groups in­volved in de­vel­op­ing a coro­n­avirus vac­cine. And Pfizer said on Wed­nes­day that coro­n­avirus vac­cine doc­u­men­ta­tion it had turned over to Europe’s top drug reg­u­la­tor had been hacked in a cy­ber at­tack on the agency.</p>
+    <p>The NSA re­cently warned other ad­min­is­tra­tors of na­tional se­cu­rity and de­fence sys­tems that they were at risk be­cause Rus­sian hack­ers were ex­ploit­ing vul­ner­a­bil­i­ties in prod­ucts made by VMware, a soft­ware com­pany.</p>
+    <p>The les­son in all this may be that no per­son or en­tity can avoid be­ing hacked if the forces of well-re­sourced and deft na­tion states are on the prowl.</p>
+    <p>In the most op­ti­mistic sce­nario, all of us may be per­ma­nently mired in a never-end­ing cat-and-mouse game be­tween dig­i­tal se­cu­rity guards and hack­ers.</p>
+    <p>The bleaker sce­nario is end­less cy­ber war­fare among coun­tries such as the US, Rus­sia and China – con­flicts that have the power to un­der­mine democ­racy, up­end per­sonal pri­vacy, com­pro­mise na­tional se­cu­rity, leave so­ci­eties awash in mis­in­for­ma­tion and turn that mo­bile phone you’re hold­ing into a time bomb.</p>
+
+    <div>
+        <picture>
+            <img src="https://i.prcdn.co/img?regionKey=o0PFfCwm%2byiCF7NsioLk%2bQ%3d%3d" />
+        </picture>
+        <span role="byline">PHOTO: AGENCE FRANCE-PRESSE</span>
+        <p data-role="text">FireEye, an Amer&#xAD;i&#xAD;can com&#xAD;pany spe&#xAD;cial&#xAD;is&#xAD;ing in dig&#xAD;i&#xAD;tal war&#xAD;fare, said on Tues&#xAD;day that its servers had been hacked. The firm added that the hack&#xAD;ers fo&#xAD;cused pri&#xAD;mar&#xAD;ily on in&#xAD;for&#xAD;ma&#xAD;tion from its gov&#xAD;ern&#xAD;ment clients.</p>
+    </div>
+
+</article>
+
+<section>
+    <h3><a href="/catalog/language/english">Newspapers in English</a></h3>
+    <h3><a href="/catalog/country/singapore">Newspapers from Singapore</a></h3>
+</section>
+
+    </div>
+    
+    <p><a href="http://www.pressreader.com">© PressReader. All rights reserved.</a></p>
+
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments);
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g;
+                m.parentNode.insertBefore(a, m);
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        </script>
+        <script>
+            ga('create', 'UA-44408245-1');
+            ga('send', 'pageView');
+        </script>
+</body>
+</html>

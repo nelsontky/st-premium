@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PressReader - The Straits Times: 2020-08-05 - New tech &#x2018;cloaks&#x2019; images to fool facial recog&#xAD;ni&#xAD;tion sys&#xAD;tems</title>
+    <meta name="description" content="">
+    <meta content="magazines, newspapers, digital news, reading, news, breaking news, newspaper online" name="keywords">
+    <meta name="Robots" content="NOARCHIVE,NOODP">
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    <link rel="canonical" href="/singapore/the-straits-times/20200805/281938840256847" />
+
+
+    <style>
+        li {
+            margin: 1em 0;
+        }
+        img {
+            max-width: 100%;
+        }
+        p, h1, h2, h3 {
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        
+
+<article>
+    <h1>New tech &#x2018;cloaks&#x2019; images to fool facial recog&#xAD;ni&#xAD;tion sys&#xAD;tems</h1>
+    <h2></h2>
+    <section>
+        <a href="/singapore/the-straits-times/textview" title="The Straits Times">The Straits Times</a>
+        - <a href="/singapore/the-straits-times/20200805/textview" title="The Straits Times - 2020-08-05"><time>2020-08-05</time></a>
+        - <span>WORLD</span>
+        - <span role="byline"></span>
+    </section>
+
+    <p>NEW YORK • In re­cent years, com­pa­nies have been prowl­ing the Web for public pho­tos as­so­ci­ated with peo­ple’s names that they can use to build enor­mous data­bases of faces and im­prove their facial recog­ni­tion sys­tems, adding to a grow­ing sense that per­sonal pri­vacy is be­ing lost, bit by dig­i­tal bit.</p>
+    <p>A start-up called Clearview AI, for ex­am­ple, scraped bil­lions of on­line pho­tos to build a tool for po­lice that could lead them from a face to a Face­book ac­count, re­veal­ing a per­son’s iden­tity.</p>
+    <p>Now re­searchers are try­ing to foil those sys­tems. A team of com­puter en­gi­neers at the Univer­sity of Chicago has de­vel­oped a tool that dis­guises pho­tos with pixel-level changes that con­fuse facial recog­ni­tion sys­tems.</p>
+    <p>Named Fawkes in hon­our of the Guy Fawkes mask favoured by pro­test­ers world­wide, the soft­ware was made avail­able to de­vel­op­ers on the re­searchers’ web­site last month.</p>
+    <p>Af­ter be­ing dis­cov­ered by Hacker</p>
+    <p>News, it has been down­loaded more than 50,000 times. The re­searchers are work­ing on a free app ver­sion for non-coders, which they hope to make avail­able soon.</p>
+    <p>The soft­ware is not in­tended to be just a one-off tool for pri­vacy-lov­ing in­di­vid­u­als. If de­ployed across mil­lions of images, it would be a broad­side against facial recog­ni­tion sys­tems, poi­son­ing the ac­cu­racy of the data sets they gather from the Web.</p>
+    <p>“Our goal is to make Clearview go away,” said Pro­fes­sor Ben Zhao, who teaches at the Univer­sity of Chicago.</p>
+    <p>Fawkes con­verts an im­age – or “cloaks” it, in the re­searchers’ par­lance – by sub­tly al­ter­ing some of the fea­tures that facial recog­ni­tion sys­tems de­pend on when they con­struct a per­son’s face print.</p>
+    <p>In a re­search pa­per, re­ported ear­lier by OneZero, the team de­scribes</p>
+    <p>“cloak­ing” pho­tos of ac­tress Gwyneth Pal­trow us­ing ac­tor Pa­trick Dempsey’s face, so that a sys­tem learn­ing what Pal­trow looks like based on those pho­tos would start as­so­ci­at­ing her with some of the fea­tures of Dempsey’s face. The changes, usu­ally subtle and not per­cep­ti­ble to the naked eye, would pre­vent the sys­tem from recog­nis­ing Pal­trow when pre­sented with a real, un­cloaked photo of her.</p>
+    <p>In test­ing, the re­searchers were able to fool facial recog­ni­tion sys­tems from Ama­zon, Mi­crosoft and Chi­nese tech com­pany Megvii.</p>
+    <p>To test the tool, a New York Times re­porter asked the team to cloak some images of her fam­ily and her­self. She then up­loaded the orig­i­nals and the cloaked images to Face­book to see if they fooled the so­cial net­work’s facial recog­ni­tion sys­tem.</p>
+    <p>It worked: Face­book tagged her in the orig­i­nal photo but did not recog­nise her in the cloaked ver­sion. How­ever, the changes to the pho­tos were no­tice­able to the naked eye.</p>
+    <p>The re­searchers had a few ex­pla­na­tions for this. One is that the soft­ware is de­signed to match you with the face tem­plate of some­one who looks as much un­like you as pos­si­ble, pulling from a data­base of celebrity faces.</p>
+    <p>That usu­ally ends up be­ing a per­son of the op­po­site sex, which leads to ob­vi­ous prob­lems.</p>
+    <p>“Women get mous­taches, and guys get ex­tra eye­lashes or eye shadow,” Prof Zhao said.</p>
+    <p>He is en­thu­si­as­tic about what he calls “pri­vacy ar­mour” and pre­vi­ously helped de­sign a bracelet that stops smart speak­ers from over­hear­ing con­ver­sa­tions.</p>
+    <p>The team says it plans to tweak the soft­ware so that it will no longer sub­tly change the sex of users.</p>
+    <p>Fawkes is not in­tended to keep a facial recog­ni­tion sys­tem like Face­book’s from recog­nis­ing some­one in a sin­gle photo. It is try­ing to more broadly cor­rupt facial recog­ni­tion sys­tems, per­form­ing an al­go­rith­mic at­tack called data poi­son­ing.</p>
+    <p>The re­searchers said that, ideally, peo­ple would start cloak­ing all the images they up­loaded.</p>
+    <p>But Clearview’s chief ex­ec­u­tive, Mr Hoan Ton-That, ran a ver­sion of The New York Times’ Face­book ex­per­i­ment on the Clearview app and said the tech­nol­ogy did not in­ter­fere with his sys­tem.</p>
+    <p>In fact, he said his com­pany could use images cloaked by Fawkes to im­prove its abil­ity to make sense of al­tered images.</p>
+    <p>“In prac­tice, it’s al­most cer­tainly too late to perfect a tech­nol­ogy like Fawkes and de­ploy it at scale,” said Mr Ton-That.</p>
+
+    <div>
+        <picture>
+            <img src="https://i.prcdn.co/img?regionKey=X7D%2bNZR66t3xgCYsdgAEWA%3d%3d" />
+        </picture>
+        <span role="byline">PHOTO: AGENCE FRANCE-PRESSE</span>
+        <p data-role="text">Three Mi&#xAD;crone&#xAD;sian sailors stranded on a re&#xAD;mote Pa&#xAD;cific is&#xAD;land drew a gi&#xAD;ant SOS mes&#xAD;sage in the sand to at&#xAD;tract the at&#xAD;ten&#xAD;tion of res&#xAD;cuers, who found them three days af&#xAD;ter they went miss&#xAD;ing at sea.&#xD;&#xA;Aus&#xAD;tralian and United States air&#xAD;craft lo&#xAD;cated the men on tiny Pikelot is&#xAD;land, about 200km west of where they had set off in a 7m skiff be&#xAD;fore veer&#xAD;ing off course and run&#xAD;ning out of fuel.&#xD;&#xA;&#x201C;I am proud of the re&#xAD;sponse and pro&#xAD;fes&#xAD;sion&#xAD;al&#xAD;ism of all on board as we ful&#xAD;fil our obli&#xAD;ga&#xAD;tion to con&#xAD;trib&#xAD;ute to the safety of life at sea wher&#xAD;ever we are,&#x201D; the Aus&#xAD;tralian navy&#x2019;s Cap&#xAD;tain Terry Mor&#xAD;ri&#xAD;son said in a De&#xAD;fence De&#xAD;part&#xAD;ment state&#xAD;ment.&#xD;&#xA;Capt Mor&#xAD;ri&#xAD;son com&#xAD;mands the HMAS Can&#xAD;berra, which sent a he&#xAD;li&#xAD;copter to the res&#xAD;cue af&#xAD;ter of&#xAD;fi&#xAD;cials in the US ter&#xAD;ri&#xAD;tory of Guam raised the alarm, fol&#xAD;low&#xAD;ing the sailors&#x2019; fail&#xAD;ure to com&#xAD;plete a 42km trip be&#xAD;tween Pa&#xAD;cific atolls.&#xD;&#xA;The he&#xAD;li&#xAD;copter landed on the is&#xAD;land on Sun&#xAD;day af&#xAD;ter its crew spot&#xAD;ted the sailors&#x2019; ap&#xAD;peal for help, close to their makeshift shel&#xAD;ter. The crew checked on the con&#xAD;di&#xAD;tion of the men and gave them food and wa&#xAD;ter.&#xD;&#xA;A Mi&#xAD;crone&#xAD;sian pa&#xAD;trol ves&#xAD;sel is headed to the is&#xAD;land to pick up the men, the state&#xAD;ment added. Pikelot is a low coral islet with for&#xAD;est and scrub, and is home to a seabird rook&#xAD;ery and tur&#xAD;tle nest&#xAD;ing site.</p>
+    </div>
+
+</article>
+
+<section>
+    <h3><a href="/catalog/language/english">Newspapers in English</a></h3>
+    <h3><a href="/catalog/country/singapore">Newspapers from Singapore</a></h3>
+</section>
+
+    </div>
+    
+    <p><a href="http://www.pressreader.com">© PressReader. All rights reserved.</a></p>
+
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments);
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g;
+                m.parentNode.insertBefore(a, m);
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        </script>
+        <script>
+            ga('create', 'UA-44408245-1');
+            ga('send', 'pageView');
+        </script>
+</body>
+</html>

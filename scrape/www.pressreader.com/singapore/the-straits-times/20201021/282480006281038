@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PressReader - The Straits Times: 2020-10-21 - The ABCs of fight&#xAD;ing mal&#xAD;ware</title>
+    <meta name="description" content="Here are seven tips, from as&#xAD;sum&#xAD;ing ev&#xAD;ery web&#xAD;site is sus&#xAD;pect to check&#xAD;ing for scams">
+    <meta content="magazines, newspapers, digital news, reading, news, breaking news, newspaper online" name="keywords">
+    <meta name="Robots" content="NOARCHIVE,NOODP">
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    <link rel="canonical" href="/singapore/the-straits-times/20201021/282480006281038" />
+
+
+    <style>
+        li {
+            margin: 1em 0;
+        }
+        img {
+            max-width: 100%;
+        }
+        p, h1, h2, h3 {
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        
+
+<article>
+    <h1>The ABCs of fight&#xAD;ing mal&#xAD;ware</h1>
+    <h2>Here are seven tips, from as&#xAD;sum&#xAD;ing ev&#xAD;ery web&#xAD;site is sus&#xAD;pect to check&#xAD;ing for scams</h2>
+    <section>
+        <a href="/singapore/the-straits-times/textview" title="The Straits Times">The Straits Times</a>
+        - <a href="/singapore/the-straits-times/20201021/textview" title="The Straits Times - 2020-10-21"><time>2020-10-21</time></a>
+        - <span>LIFE | TECH</span>
+        - <span role="byline">Raju Chel&#xAD;lam stlife@sph.com.sg</span>
+    </section>
+
+    <p>This week, I share my ex­pe­ri­ence of a mal­ware at­tack and what you can do to fight it.</p>
+    <p>Mal­ware stands for ma­li­cious soft­ware, de­signed to cause dam­age to a com­puter, server or com­puter network and, by ex­ten­sion, in­di­vid­ual users or or­gan­i­sa­tions.</p>
+    <p>Mal­ware types in­clude com­puter viruses, worms, ran­somware, spy­ware, ad­ware and rogue soft­ware. Soft­ware that causes dam­age un­in­ten­tion­ally – due to pro­gram­ming or other er­rors – is a bug, not mal­ware.</p>
+    <p>A few days ago, I was brows­ing – in incog­nito mode – re­ports on how to deal with bias and eth­i­cal is­sues in ar­ti­fi­cial-in­tel­li­gence al­go­rithms. A Google search threw up</p>
+    <p>4.5 mil­lion re­sults, in­clud­ing re­ports from con­sult­ing com­pa­nies, ma­jor multi­na­tional cor­po­ra­tions and aca­demic in­sti­tu­tions.</p>
+    <p>I looked through many of them, down­loaded a few doc­u­ments (in PDF for­mat) and some charts (in JPG for­mat).</p>
+    <p>The browser also showed me a few ad­ver­tise­ments, which I ig­nored, and a set of ques­tions un­der a chart with four rows ti­tled “Peo­ple also ask”. I clicked on a cou­ple of them, which led me to a web­site with em­bed­ded ads, which I also ig­nored.</p>
+    <p>Af­ter a while, I closed the browser and shut down my lap­top.</p>
+    <p>When I turned it on a few hours later, it took a while to boot up, which was a red flag. Once it did, the screen scrolled through dozens of er­ror mes­sages in quick suc­ces­sion – then froze.</p>
+    <p>I knew I had be­come a vic­tim of a mal­ware at­tack. I re­booted the lap­top in “safe mode” and plugged in my bootable USB drive to get the com­puter to restart. It did not work.</p>
+    <p>I had no choice but to re­for­mat the hard disk, thereby los­ing all the data I had not backed up.</p>
+    <p>An un­known mal­ware had cor­rupted my com­puter’s “boot se­quence” be­yond re­pair.</p>
+    <p>What was the cul­prit? The web­sites I vis­ited? The ma­te­ri­als I down­loaded? The ads with em­bed­ded ma­li­cious code in them?</p>
+    <p>I don’t know – it could be any of them or none at all. The prob­lem could have been caused by even web­sites I vis­ited a week ago, or an e-mail at­tach­ment I opened the day be­fore.</p>
+    <p>That’s how in­sid­i­ous mal­ware is today – you won’t know where it orig­i­nates and how it goes about dam­ag­ing your com­puter.</p>
+    <p>On­line scams led to more than 10,000 peo­ple in Sin­ga­pore los­ing a whop­ping $157 mil­lion be­tween Jan­uary and Au­gust – com­pared with 5,230 peo­ple los­ing</p>
+    <p>$92 mil­lion in the same pe­riod last year.</p>
+    <p>Note that not all on­line scams are mal­ware-re­lated. They also in­clude e-com­merce scams (you don’t re­ceive goods you paid for), loan scams (you pay a de­posit for a loan that never ma­te­ri­alises) and im­per­son­ation scams (fraud­sters im­per­son­ate your friend/fam­ily mem­ber and try to siphon your money).</p>
+    <p>How can you pro­tect your­self against mal­ware? Here are seven tips – in al­pha­bet­i­cal or­der – to keep in mind:</p>
+    <p>1 AS­SUME</p>
+    <p>As­sume all peo­ple and web­sites are sus­pect un­less proven other­wise. Keep your anti-virus, anti-spam, anti-spy­ware and anti-mal­ware files cur­rent and up­dated.</p>
+    <p>Be aware that you will never stop get­ting spam, some of which may con­tain scams or em­bed­ded mal­ware.</p>
+    <p>2 BACK UP</p>
+    <p>Reg­u­larly back up your data on two USB drives – ideally once daily or twice weekly at least.</p>
+    <p>If you have vast amounts of videos and pho­tos, back them up on Mi­crosoft OneDrive, Google Drive or Drop­box. If you want soft­ware that en­crypts your backed-up files, check out www.ar­qbackup.com</p>
+    <p>3 CRE­ATE</p>
+    <p>You can cre­ate a re­cov­ery point and/or a re­cov­ery drive on Win­dows 10. You do a re­cov­ery point to roll back to an un­in­fected ver­sion and a re­cov­ery of your drive op­er­at­ing to cre­ate sys­tem, a bootable CD or thumb drive (the min­i­mum stor­age re­quired is 16GB).</p>
+    <p>Note that this will wipe out your data and ap­pli­ca­tions, so you may need to re­store your apps and data from your backed-up stor­age.</p>
+    <p>If th­ese mea­sures don’t work, you have to re­for­mat your drive and re­in­stall ev­ery­thing.</p>
+    <p>4 DOWN­LOAD</p>
+    <p>Down­load soft­ware, es­pe­cially games and apps, from only re­li­able sites. On your smart­phone, down­load apps from only the Google Play Store or Ap­ple App Store. Mi­crosoft De­fender is an anti-mal­ware com­po­nent of Win­dows.</p>
+    <p>On Win­dows PCs, en­sure De­fender auto-up­dates and scans all files on your PC reg­u­larly. De­fend your vir­tual self as you would your phys­i­cal self.</p>
+    <p>5 EN­GAGE</p>
+    <p>En­gage your fam­ily and close friends on so­cial me­dia, but col­leagues and busi­ness con­tacts on LinkedIn, Slack or other pro­fes­sional plat­forms.</p>
+    <p>Mix­ing the two is not rec­om­mended. Keep your per­sonal life sep­a­rate from your pro­fes­sional one – on sep­a­rate lap­tops. Keep your col­leagues close, but keep your fam­ily and friends closer.</p>
+    <p>6 FAC­TOR</p>
+    <p>Use multi-fac­tor au­then­ti­ca­tion where pos­si­ble, in­clud­ing for Gmail. Two-fac­tor au­then­ti­ca­tion (2FA) is now widely used by gov­ern­ment agen­cies and banks and pro­vides an ex­tra layer of se­cu­rity that is hard for at­tack­ers to crack. Also, fac­tor in spe­cial char­ac­ters (@,#,$,%,&,*,!) in your pass­word. Don’t re­use pass­words. Don’t use the same pass­word for mul­ti­ple ac­counts. Ev­ery char­ac­ter you add to your pass­word makes it more dif­fi­cult for hack­ers to crack.</p>
+    <p>7 GOV­ERN­MENT</p>
+    <p>If you sus­pect you are a vic­tim of a scam, go to www.sca­malert.sg to check for sto­ries that match your cir­cum­stances.</p>
+    <p>“When you know how to spot scams, you know how to pro­tect your­self,” states the Scam Alert web­site, where you can also learn about dif­fer­ent types of scams, the tac­tics used and what you should do when you have been tar­geted.</p>
+    <p>• Raju Chel­lam is the au­thor of Or­gan Gold, pub­lished by the Straits Times Press, on the il­le­gal trade in hu­man or­gans on the Dark Web.</p>
+
+    <div>
+        <picture>
+            <img src="https://i.prcdn.co/img?regionKey=LsKJlBBi6af%2b6eN9enI73w%3d%3d" />
+        </picture>
+        <span role="byline"></span>
+        <p data-role="text"></p>
+    </div>
+
+</article>
+
+<section>
+    <h3><a href="/catalog/language/english">Newspapers in English</a></h3>
+    <h3><a href="/catalog/country/singapore">Newspapers from Singapore</a></h3>
+</section>
+
+    </div>
+    
+    <p><a href="http://www.pressreader.com">© PressReader. All rights reserved.</a></p>
+
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments);
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g;
+                m.parentNode.insertBefore(a, m);
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        </script>
+        <script>
+            ga('create', 'UA-44408245-1');
+            ga('send', 'pageView');
+        </script>
+</body>
+</html>

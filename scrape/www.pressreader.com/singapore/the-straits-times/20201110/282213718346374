@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PressReader - The Straits Times: 2020-11-10 - NUS team de&#xAD;vel&#xAD;ops tool that can as&#xAD;sess vul&#xAD;ner&#xAD;a&#xAD;bil&#xAD;ity of AI sys&#xAD;tems to at&#xAD;tacks</title>
+    <meta name="description" content="">
+    <meta content="magazines, newspapers, digital news, reading, news, breaking news, newspaper online" name="keywords">
+    <meta name="Robots" content="NOARCHIVE,NOODP">
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    <link rel="canonical" href="/singapore/the-straits-times/20201110/282213718346374" />
+
+
+    <style>
+        li {
+            margin: 1em 0;
+        }
+        img {
+            max-width: 100%;
+        }
+        p, h1, h2, h3 {
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        
+
+<article>
+    <h1>NUS team de&#xAD;vel&#xAD;ops tool that can as&#xAD;sess vul&#xAD;ner&#xAD;a&#xAD;bil&#xAD;ity of AI sys&#xAD;tems to at&#xAD;tacks</h1>
+    <h2></h2>
+    <section>
+        <a href="/singapore/the-straits-times/textview" title="The Straits Times">The Straits Times</a>
+        - <a href="/singapore/the-straits-times/20201110/textview" title="The Straits Times - 2020-11-10"><time>2020-11-10</time></a>
+        - <span>TECH</span>
+        - <span role="byline">Lester Wong</span>
+    </section>
+
+    <p>National Univer­sity of Sin­ga­pore (NUS) re­searchers have de­vel­oped a tool to safe­guard against a new form of cy­ber at­tack that can recre­ate the data sets con­tain­ing per­sonal in­for­ma­tion used to train ar­ti­fi­cial in­tel­li­gence (AI) ma­chines.</p>
+    <p>The tool, called the Ma­chine Learn­ing (ML) Pri­vacy Me­ter, has been in­cor­po­rated into the devel­oper tool­kit that Google uses to test the pri­vacy pro­tec­tion fea­tures of AI al­go­rithms.</p>
+    <p>In re­cent years, hack­ers have fig­ured out how to re­verse-en­gi­neer and re­con­struct data­base sets used to train AI sys­tems through an in­creas­ingly com­mon kind of at­tack called a mem­ber­ship in­fer­ence (MI) at­tack.</p>
+    <p>As­sis­tant Pro­fes­sor Reza Shokri, who heads the re­search team be­hind ML Pri­vacy Me­ter, said such at­tacks in­volve hack­ers re­peat­edly ask­ing the AI sys­tem for in­for­ma­tion, analysing the data for a pat­tern, and then us­ing the pat­tern to guess if a data record was used to train the AI sys­tem.</p>
+    <p>Such at­tacks are hard to de­tect as the at­tacker uses the sys­tem in a sim­i­lar way as a reg­u­lar user.</p>
+    <p>They take ad­van­tage of the fact that ma­chine-learn­ing al­go­rithms con­tain enor­mous amounts of per­sonal in­for­ma­tion in­clud­ing birth dates, NRIC num­bers or chil­dren’s names, which could be used to guess peo­ple’s passwords.</p>
+    <p>For ex­am­ple, an AI-pow­ered smart trans­porta­tion net­work would need to be trained in the move­ment data of mil­lions of com­muters to fig­ure out a gen­eral pat­tern of where crowds or traf­fic jams are likely to be.</p>
+    <p>“But lo­ca­tion tra­jec­to­ries (of in­di­vid­u­als) are sen­si­tive, and we don’t want to re­veal that a per­son went to this place or that place at a cer­tain time,” said Prof Shokri, who is also an NUS pres­i­den­tial young pro­fes­sor of com­puter sci­ence.</p>
+    <p>“Many ma­chine-learn­ing algo</p>
+    <p>rithms, how­ever, do re­mem­ber such spe­cific pat­terns, even if the AI sys­tem does not store that data.”</p>
+    <p>Th­ese spe­cific pat­terns could in­clude sen­si­tive med­i­cal or fi­nan­cial in­for­ma­tion, which are also the tar­gets of MI at­tacks.</p>
+    <p>Once th­ese pat­terns are de­duced, at­tack­ers can po­ten­tially re­con­struct the data set to launch phish­ing at­tacks against in­di­vid­u­als whose iden­ti­ties can be eas­ily guessed, or de­cide to mount more se­ri­ous at­tacks.</p>
+    <p>Prof Shokri likened MI at­tacks to thieves prob­ing for weak spots in a house’s walls and doors with a nee­dle be­fore break­ing in.</p>
+    <p>“But the thief is not go­ing to break in with the nee­dle. Now that he knows (where the weak spots are), he is go­ing to come with a ham­mer and break the wall,” he said.</p>
+    <p>ML Pri­vacy Me­ter helps AI de­vel­op­ers through a scorecard show­ing how ac­cu­rately at­tack­ers could recre­ate the orig­i­nal data sets and sug­gests tech­niques to guard against ac­tual MI at­tacks.</p>
+    <p>The Pri­vacy Me­ter is the re­sult of three years of work to cre­ate an easy-to-use tool which helps pro­gram­mers see where the weak spots in their al­go­rithms are.</p>
+    <p>Google started us­ing the tool ear­lier this year.</p>
+    <p>The tool is open-source, mean­ing that it can be used for free by other re­searchers or com­pa­nies around the world.</p>
+    <p>“Our main fo­cus was to build an easy-to-use in­ter­face for any­body who knows ma­chine learn­ing, but might not know any­thing about pri­vacy and cy­ber at­tacks,” said Prof Shokri, who is Ira­nian by birth and moved to Sin­ga­pore in 2017.</p>
+    <p>He ac­knowl­edged that build­ing AI sys­tems in a “pri­vacy-pre­serv­ing” way will in­volve more work and higher costs for the ma­jor play­ers in the sec­tor, who are rac­ing against one an­other to pro­duce the big­gest and most ac­cu­rate ma­chine-learn­ing al­go­rithms.</p>
+    <p>“But as a user of this tech­nol­ogy (AI), whether it’s a gov­ern­ment or big corporatio­n, they need to be aware of the risks too,” Prof Shokri said.</p>
+    <p>“In five years’ time, hack­ers are not go­ing to come and try to break your net­work. They’ll just down­load your app and ex­tract in­for­ma­tion about your data.</p>
+    <p>“And that’s what our tool is meant to do – mea­sure th­ese pri­vacy risks.”</p>
+
+    <div>
+        <picture>
+            <img src="https://i.prcdn.co/img?regionKey=M6kM7YtPU0xadwaU5Zj8PA%3d%3d" />
+        </picture>
+        <span role="byline"></span>
+        <p data-role="text"></p>
+    </div>
+    <div>
+        <picture>
+            <img src="https://i.prcdn.co/img?regionKey=prl8PyhMcE%2boO%2fvRygaN8g%3d%3d" />
+        </picture>
+        <span role="byline">ST PHOTO: TI&#xAD;MOTHY DAVID</span>
+        <p data-role="text">As&#xAD;sis&#xAD;tant Pro&#xAD;fes&#xAD;sor Reza Shokri (stand&#xAD;ing in mid&#xAD;dle) with mem&#xAD;bers of his NUS re&#xAD;search team that de&#xAD;vel&#xAD;oped the Ma&#xAD;chine Learn&#xAD;ing Pri&#xAD;vacy Me&#xAD;ter, (from far left) mas&#xAD;ter&#x2019;s stu&#xAD;dent Mi&#xAD;hir Khan&#xAD;dekar, 24, doc&#xAD;toral stu&#xAD;dent Chang Hongyan, 24, re&#xAD;search as&#xAD;sis&#xAD;tant Aadyaa Maddi, 22, and doc&#xAD;toral stu&#xAD;dent Roshani Choura&#xAD;sia, 24.</p>
+    </div>
+
+</article>
+
+<section>
+    <h3><a href="/catalog/language/english">Newspapers in English</a></h3>
+    <h3><a href="/catalog/country/singapore">Newspapers from Singapore</a></h3>
+</section>
+
+    </div>
+    
+    <p><a href="http://www.pressreader.com">© PressReader. All rights reserved.</a></p>
+
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments);
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g;
+                m.parentNode.insertBefore(a, m);
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        </script>
+        <script>
+            ga('create', 'UA-44408245-1');
+            ga('send', 'pageView');
+        </script>
+</body>
+</html>

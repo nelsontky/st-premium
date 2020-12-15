@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PressReader - The Straits Times: 2020-10-08 - Ex&#xAD;cel file glitch leads to 16,000 cases in UK be&#xAD;ing missed</title>
+    <meta name="description" content="Health Sec&#xAD;re&#xAD;tary says govt will up&#xAD;grade com&#xAD;puter sys&#xAD;tems">
+    <meta content="magazines, newspapers, digital news, reading, news, breaking news, newspaper online" name="keywords">
+    <meta name="Robots" content="NOARCHIVE,NOODP">
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    <link rel="canonical" href="/singapore/the-straits-times/20201008/281900185671804" />
+
+
+    <style>
+        li {
+            margin: 1em 0;
+        }
+        img {
+            max-width: 100%;
+        }
+        p, h1, h2, h3 {
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        
+
+<article>
+    <h1>Ex&#xAD;cel file glitch leads to 16,000 cases in UK be&#xAD;ing missed</h1>
+    <h2>Health Sec&#xAD;re&#xAD;tary says govt will up&#xAD;grade com&#xAD;puter sys&#xAD;tems</h2>
+    <section>
+        <a href="/singapore/the-straits-times/textview" title="The Straits Times">The Straits Times</a>
+        - <a href="/singapore/the-straits-times/20201008/textview" title="The Straits Times - 2020-10-08"><time>2020-10-08</time></a>
+        - <span>WORLD</span>
+        - <span role="byline"></span>
+    </section>
+
+    <p>LONDON • A tech­ni­cal glitch that left nearly 16,000 Covid-19 cases un­doc­u­mented in Bri­tain was caused by Mi­crosoft Ex­cel files ex­ceed­ing their max­i­mum size, the coun­try’s Health Sec­re­tary has said.</p>
+    <p>The er­ror “should never have hap­pened”, Mr Matt Han­cock told the House of Com­mons, promis­ing that the gov­ern­ment would in­ves­ti­gate the mat­ter and up­grade its out­moded com­puter sys­tems.</p>
+    <p>The Health Sec­re­tary on Mon­day gave Mem­bers of Par­lia­ment a run­down on how the 15,841 pos­i­tive test re­sults recorded be­tween Sept 25 and last Fri­day were not re­ported in the coun­try’s daily fig­ures – and, crit­i­cally, were not passed onto the trac­ing pro­gramme.</p>
+    <p>Those who tested pos­i­tive were in­formed of their re­sults but were not then called by trac­ers – mean­ing any­one whom they had close con­tact with had also not re­ceived in­struc­tions to self-iso­late. Sci­en­tific ex­perts say that must hap­pen within 48 hours for a test-and-trace pro­gramme to be ef­fec­tive.</p>
+    <p>Mr Han­cock said there was a fail­ure in the “au­to­mated trans­fer of files” from lab­o­ra­to­ries to Pub­lic Health Eng­land (PHE).</p>
+    <p>“This in­ci­dent should never have hap­pened. But the team have acted swiftly to min­imise its im­pact.”</p>
+    <p>PHE said the glitch, dis­cov­ered last Fri­day, had been fixed, and out­stand­ing cases passed on to trac­ers by the next day.</p>
+    <p>But, by Mon­day, around half of those pos­i­tive cases still had yet to be asked about their close con­tacts.</p>
+    <p>The dis­clo­sure of the glitch brought a storm of crit­i­cism on Prime Min­is­ter Boris John­son’s gov­ern­ment, which has been on the de­fen­sive for its hap­haz­ard han­dling of the pan­demic.</p>
+    <p>More than 42,000 peo­ple have died from the virus in Bri­tain, the high­est num­ber in Europe, and the coun­try is fac­ing a sec­ond wave of in­fec­tions. Bri­tain’s gov­ern­ment coro­n­avirus dash­board yes­ter­day showed a to­tal of over 530,000 Covid-19 cases re­ported to date.</p>
+    <p>The op­po­si­tion Labour Party said the miss­ing re­sults were “putting lives at risk”, with “thou­sands of peo­ple bliss­fully un­aware they have been ex­posed to Covid-19”.</p>
+    <p>The er­ror was caused by the Mi­crosoft Ex­cel data files be­ing too large to trans­fer af­ter they were com­piled, BBC re­ported.</p>
+    <p>PHE had set up an au­to­mated process to pull to­gether text-based lists of data col­lected by firms paid to carry out Covid-19 swab tests.</p>
+    <p>The data was com­piled into Ex­cel tem­plates that were up­loaded to a cen­tral sys­tem and made avail­able to the Na­tional Health Ser­vice’s test-and-trace team.</p>
+    <p>But PHE devel­op­ers picked an old file for­mat, .xls, to do this. As a re­sult, each tem­plate could han­dle only about 65,000 rows of data rather than the one mil­lion-plus rows that Ex­cel is ca­pa­ble of.</p>
+    <p>When the to­tal was reached, fur­ther cases were sim­ply lopped off.</p>
+    <p>Of­fi­cials said that they even­tu­ally fixed the prob­lem by split­ting up the files and trans­fer­ring smaller amounts of data.</p>
+    <p>The glitch meant the num­ber of new daily cases re­ported over that week was lower than the ac­tual num­ber. Daily fig­ures for the end of the week were about 10,000 rather than the 7,000 ini­tially re­ported.</p>
+    <p>BBC analysis found that the num­ber of cases re­ported for the week to last Thurs­day rose by around 93 per cent in the North West af­ter ac­count­ing for the er­ror – with sim­i­lar rises re­flected across Bri­tain.</p>
+    <p>“The tim­ing of it couldn’t be worse,” said Pro­fes­sor Devi Sridhar, di­rec­tor of the global health gov­er­nance pro­gramme at the Univer­sity of Ed­in­burgh. “You’re head­ing into win­ter, and we al­ready knew that cases were ris­ing. This is re­ally when you’d need your te­s­tand-trace sys­tem to do its work.”</p>
+    <p>The tim­ing of it couldn’t be worse... You’re head­ing into win­ter, and we al­ready knew that cases were ris­ing. This is re­ally when you’d need your test-and-trace sys­tem to do its work.</p>
+    <p>PRO­FES­SOR DEVI SRIDHAR, di­rec­tor of the global health gov­er­nance pro­gramme at the Univer­sity of Ed­in­burgh.</p>
+
+    <div>
+        <picture>
+            <img src="https://i.prcdn.co/img?regionKey=DqoAxpS%2bWnmicr3yRT3Cwg%3d%3d" />
+        </picture>
+        <span role="byline">PHOTO: EPA-EFE</span>
+        <p data-role="text">Bri&#xAD;tish Health Sec&#xAD;re&#xAD;tary Matt Han&#xAD;cock told Par&#xAD;lia&#xAD;ment on Mon&#xAD;day that there was a fail&#xAD;ure in the &#x201C;au&#xAD;to&#xAD;mated trans&#xAD;fer of files&#x201D; from lab&#xAD;o&#xAD;ra&#xAD;to&#xAD;ries to Pub&#xAD;lic Health Eng&#xAD;land.</p>
+    </div>
+
+</article>
+
+<section>
+    <h3><a href="/catalog/language/english">Newspapers in English</a></h3>
+    <h3><a href="/catalog/country/singapore">Newspapers from Singapore</a></h3>
+</section>
+
+    </div>
+    
+    <p><a href="http://www.pressreader.com">© PressReader. All rights reserved.</a></p>
+
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments);
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g;
+                m.parentNode.insertBefore(a, m);
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        </script>
+        <script>
+            ga('create', 'UA-44408245-1');
+            ga('send', 'pageView');
+        </script>
+</body>
+</html>

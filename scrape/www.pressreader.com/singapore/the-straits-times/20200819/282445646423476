@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PressReader - The Straits Times: 2020-08-19 - So&#xAD;cial en&#xAD;gi&#xAD;neer&#xAD;ing &#x2013; ABCs to avoid</title>
+    <meta name="description" content="">
+    <meta content="magazines, newspapers, digital news, reading, news, breaking news, newspaper online" name="keywords">
+    <meta name="Robots" content="NOARCHIVE,NOODP">
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    <link rel="canonical" href="/singapore/the-straits-times/20200819/282445646423476" />
+
+
+    <style>
+        li {
+            margin: 1em 0;
+        }
+        img {
+            max-width: 100%;
+        }
+        p, h1, h2, h3 {
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        
+
+<article>
+    <h1>So&#xAD;cial en&#xAD;gi&#xAD;neer&#xAD;ing &#x2013; ABCs to avoid</h1>
+    <h2></h2>
+    <section>
+        <a href="/singapore/the-straits-times/textview" title="The Straits Times">The Straits Times</a>
+        - <a href="/singapore/the-straits-times/20200819/textview" title="The Straits Times - 2020-08-19"><time>2020-08-19</time></a>
+        - <span>LIFE TECH</span>
+        - <span role="byline">Raju Chel&#xAD;lam stlife@sph.com.sg</span>
+    </section>
+
+    <p>Here’s a pos­si­ble sce­nario: It is your first day back at the of­fice and you are feel­ing ex­cited after three months of work­ing from home. At the of­fice lift lobby, you see a bunch of peo­ple, some your col­leagues and many whom you don’t know.</p>
+    <p>You reach your floor and use your of­fice tag to open the of­fice door. Two peo­ple who rode in the same lift fol­low be­hind you into the of­fice. One, a col­league, turns left with you as you head towards your desk. The other, a stranger you as­sume is a new em­ployee, takes a right.</p>
+    <p>But the stranger is no em­ployee; he has tail­gated you and may soon be ac­cess­ing po­ten­tially con­fi­den­tial in­for­ma­tion in the of­fice.</p>
+    <p>What just hap­pened?</p>
+    <p>You have be­come an un­wit­ting vic­tim of a “so­cial en­gi­neer­ing” at­tack. It oc­curs when an at­tacker suc­ceeds in ma­nip­u­lat­ing peo­ple into in­ad­ver­tently break­ing rou­tine se­cu­rity pro­ce­dures to gain ac­cess to com­puter sys­tems, software, net­works or phys­i­cal lo­ca­tions.</p>
+    <p>It is “so­cial” be­cause it ex­ploits the in­her­ent trust peo­ple have in other peo­ple. It is “en­gi­neer­ing” be­cause it in­volves pro­cesses – and some­times tools – that can be used to steal some­one’s iden­tity sur­rep­ti­tiously.</p>
+    <p>Twit­ter be­came a vic­tim of a so­cial en­gi­neer­ing hack on July 15. The at­tack­ers tar­geted a small num­ber of em­ploy­ees by call­ing a bunch of Twit­ter staff on the phone.</p>
+    <p>“A suc­cess­ful at­tack re­quired the at­tack­ers to get ac­cess to both our in­ter­nal net­work as well as spe­cific em­ployee cre­den­tials that granted them ac­cess to our in­ter­nal sup­port tools,” re­ported</p>
+    <p>Twit­ter in its blog post on July 30.</p>
+    <p>Not all staff ini­tially tar­geted had per­mis­sion to use Twit­ter’s ac­count man­age­ment tools. The hack­ers used the cre­den­tials of the hacked em­ploy­ees to worm into Twit­ter’s sys­tems and pro­cesses.</p>
+    <p>“This knowl­edge then en­abled them to tar­get ad­di­tional em­ploy­ees who did have ac­cess to our ac­count sup­port tools. Us­ing the cre­den­tials of em­ploy­ees with ac­cess to these tools, the at­tack­ers tar­geted 130 Twit­ter ac­counts, ul­ti­mately tweet­ing from 45, ac­cess­ing the in­box of 36 and down­load­ing the Twit­ter data of seven ac­counts,” re­ported Twit­ter.</p>
+    <p>How can you spot a so­cial en­gi­neer­ing at­tack? Look out for these five sus­pi­cious ac­tiv­i­ties, listed in al­pha­bet­i­cal or­der:</p>
+    <p>AUTHENTICA­TION AT­TACK</p>
+    <p>This oc­curs when some­one gains ac­cess to a se­cure fa­cil­ity with­out be­ing au­tho­rised or au­then­ti­cated. This at­tack is also called</p>
+    <p>“tail­gat­ing” and “pig­gy­back­ing”. The at­tacker gets into a re­stricted area by walk­ing closely be­hind some­one who is au­tho­rised to do so – usu­ally by pre­tend­ing to be part of the same team.</p>
+    <p>It can also oc­cur if an at­tacker im­per­son­ates a driver de­liv­er­ing food or pack­ages. The at­tacker will wait for an em­ployee to open the of­fice door and then ask the em­ployee to hold the door open for him or her, thereby by­pass­ing se­cu­rity mea­sures such as elec­tronic ac­cess con­trols.</p>
+    <p>BAIT­ING</p>
+    <p>While the authentica­tion at­tack ex­ploits an em­ployee’s ig­no­rance, the bait­ing at­tack ex­ploits an em­ployee’s cu­rios­ity. It is like fish­ing – you at­tach the bait and wait for some­one to bite.</p>
+    <p>One vari­ant is to strew a bunch of in­fected USB thumb drives in the em­ployee park­ing lot and wait for some­one to pick one up and plug it into his or her lap­top, which will then down­load an in­fected file that will com­pro­mise the em­ployee’s cre­den­tials.</p>
+    <p>An­other vari­ant is to send a ma­li­cious file dis­guised as a software up­date to a bunch of em­ploy­ees.</p>
+    <p>A third method is to en­tice the “mark” or tar­get to visit a com­pro­mised web­site, called a “wa­ter­ing hole”.</p>
+    <p>CALL­ING</p>
+    <p>Call­ing can take var­i­ous forms.</p>
+    <p>It can be as sim­ple as mak­ing phone calls to get staff to di­vulge cor­po­rate in­for­ma­tion.</p>
+    <p>It can be “pre­tex­ting” – mas­querad­ing as some­one to ob­tain pri­vate in­for­ma­tion via the SMS, What­sApp, WeChat or an­other plat­form. At­tack­ers usu­ally cre­ate a fake iden­tity and use it to build trust with the “mark”, some­times over a pe­riod of time, un­til they get the in­for­ma­tion they want.</p>
+    <p>In one case, an at­tacker im­per­son­ated a fe­male IT helpdesk of­fi­cer who had re­signed a cou­ple of months ago and car­ried on rou­tine con­ver­sa­tions with dozens of staff be­fore the pre­tender – who was male – was dis­cov­ered by the com­pany’s in­for­ma­tion se­cu­rity depart­ment. The at­tacker’s goal was to get ac­cess to spe­cific peo­ple (the chief ex­ec­u­tive or chief fi­nan­cial of­fi­cer, for ex­am­ple) or par­tic­u­lar pro­cesses (net­work or se­cu­rity op­er­a­tions).</p>
+    <p>DOVETAILIN­G</p>
+    <p>This is a rel­a­tively new – and mod­er­ately suc­cess­ful – so­cial en­gi­neer­ing hack. Also called the “quid pro quo” at­tack, it is akin to bait­ing but with a dif­fer­ence.</p>
+    <p>Bait­ing of­fers you some­thing for noth­ing, while dovetailin­g of­fers you a re­ward to do some­thing, such as filling up a sur­vey form or an­swer­ing a few sim­ple ques­tions. In re­turn, the re­sults of the sur­vey are sent to you, with a ma­li­cious code em­bed­ded in the e-mail. Once you open the e-mail or go to the “wa­ter­ing hole” to view the re­sults, you are in­fected.</p>
+    <p>An­other ex­am­ple: You visit a web­site and click on a blink­ing box that says you have won an iPad and in­di­cates all you need to do is fill in your cre­den­tials so that the iPad can be sent to you. Many peo­ple fall for this hack.</p>
+    <p>It oc­curs when an at­tacker suc­ceeds in ma­nip­u­lat­ing peo­ple into break­ing rou­tine se­cu­rity pro­ce­dures to gain ac­cess to sys­tems or net­works</p>
+    <p>EX­EC­U­TIVE WHALING</p>
+    <p>In hacker par­lance, a “whale” is a top ex­ec­u­tive, usu­ally from the C-suite (CEO, COO, CFO or CIO), typ­i­cally from large cor­po­ra­tions such as banks, re­tail chains, multi­na­tional com­pa­nies or gov­ern­ment agencies. It is also called a “spear phish­ing” or a “whale phish­ing” at­tack.</p>
+    <p>This typ­i­cally oc­curs in two ways. In the first, a scam e-mail with the logo of a gov­ern­ment agency or a bank is sent to a top man­age­ment ex­ec­u­tive ask­ing for ur­gent at­ten­tion, which the ex­ec­u­tive for­wards to his C-suite col­league, com­pro­mis­ing both ex­ec­u­tives.</p>
+    <p>In the sec­ond, the hacker sends an e-mail di­rectly to the CEO, claim­ing that the mes­sage con­tains con­fi­den­tial whis­tle-blower in­for­ma­tion about cor­rup­tion in the com­pany.</p>
+    <p>So how do you foil so­cial en­gi­neer­ing at­tacks? It won’t be easy, but you can “stop” them with these steps:</p>
+    <p>Si­t­u­a­tional aware­ness: Be aware of your en­vi­ron­ment and be es­pe­cially alert to strangers try­ing to get phys­i­cally close to you.</p>
+    <p>Tail­gaters: Treat them with sus­pi­cion, more so if you have not seen them in the of­fice be­fore.</p>
+    <p>Obey: Ad­here to se­cu­rity pro­to­cols rec­om­mended by your of­fice or work­place. Do not dis­cuss con­fi­den­tial com­pany is­sues in pub­lic places. Ob­serve se­cu­rity best prac­tices even when you are not in the of­fice.</p>
+    <p>Phish­ing: This tac­tic, whether via e-mails or phone calls, is the prime poi­son used by preda­tors to hack into your ac­count, steal your iden­tity and cause dam­age in your name. Alert your in­for­ma­tion se­cu­rity depart­ment if you suspect you’re be­ing baited.</p>
+    <p>•</p>
+    <p>Raju Chel­lam is au­thor of Or­gan Gold, pub­lished by the Straits Times Press, on the il­le­gal trade in human or­gans on the Dark Web.</p>
+
+    <div>
+        <picture>
+            <img src="https://i.prcdn.co/img?regionKey=lcPaMFzZ5k1oDugzlw9mQQ%3d%3d" />
+        </picture>
+        <span role="byline"></span>
+        <p data-role="text"></p>
+    </div>
+
+</article>
+
+<section>
+    <h3><a href="/catalog/language/english">Newspapers in English</a></h3>
+    <h3><a href="/catalog/country/singapore">Newspapers from Singapore</a></h3>
+</section>
+
+    </div>
+    
+    <p><a href="http://www.pressreader.com">© PressReader. All rights reserved.</a></p>
+
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments);
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g;
+                m.parentNode.insertBefore(a, m);
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        </script>
+        <script>
+            ga('create', 'UA-44408245-1');
+            ga('send', 'pageView');
+        </script>
+</body>
+</html>

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PressReader - The Straits Times: 2020-10-06 - How a piece of hard&#xAD;ware took down $8 tril&#xAD;lion Ja&#xAD;pan stock mar&#xAD;ket</title>
+    <meta name="description" content="It was the first time in al&#xAD;most 15 years the Tokyo Stock Ex&#xAD;change had suf&#xAD;fered a com&#xAD;plete trad&#xAD;ing out&#xAD;age. The Tokyo bourse has a pol&#xAD;icy of not shut&#xAD;ting even dur&#xAD;ing nat&#xAD;u&#xAD;ral dis&#xAD;as&#xAD;ters, so for many on trad&#xAD;ing floors in the cap&#xAD;i&#xAD;tal, this ex&#xAD;pe&#xAD;ri&#xAD;ence was a first.Some mar&#xAD;ket par&#xAD;tic&#xAD;i&#xAD;pants fumed at the clo&#xAD;sure. Oth&#xAD;ers, with noth&#xAD;ing to do, oc&#xAD;cu&#xAD;pied their time by read&#xAD;ing re&#xAD;search notes or trad&#xAD;ing com&#xAD;modi&#xAD;ties.">
+    <meta content="magazines, newspapers, digital news, reading, news, breaking news, newspaper online" name="keywords">
+    <meta name="Robots" content="NOARCHIVE,NOODP">
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    <link rel="canonical" href="/singapore/the-straits-times/20201006/282243783051334" />
+
+
+    <style>
+        li {
+            margin: 1em 0;
+        }
+        img {
+            max-width: 100%;
+        }
+        p, h1, h2, h3 {
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        
+
+<article>
+    <h1>How a piece of hard&#xAD;ware took down $8 tril&#xAD;lion Ja&#xAD;pan stock mar&#xAD;ket</h1>
+    <h2></h2>
+    <section>
+        <a href="/singapore/the-straits-times/textview" title="The Straits Times">The Straits Times</a>
+        - <a href="/singapore/the-straits-times/20201006/textview" title="The Straits Times - 2020-10-06"><time>2020-10-06</time></a>
+        - <span>BUSINESS</span>
+        - <span role="byline"></span>
+    </section>
+
+    <p>•</p>
+    <p>TOKYO At 7:04am last Thurs­day in Tokyo, the stew­ards of the world’s third-largest eq­uity mar­ket re­alised they had a prob­lem.</p>
+    <p>A data de­vice crit­i­cal to the Tokyo Stock Ex­change’s (TSE) trad­ing sys­tem had mal­func­tioned, and the au­to­matic backup had failed to kick in.</p>
+    <p>It was less than an hour be­fore the sys­tem, called Ar­row­head, was due to start pro­cess­ing or­ders in the US$6 tril­lion (S$8.2 tril­lion) eq­uity mar­ket. Ex­change of­fi­cials could see no so­lu­tion.</p>
+    <p>The full-day shut­down that en­sued was the long­est since the ex­change switched to a fully elec­tronic trad­ing sys­tem in 1999.</p>
+    <p>It drew crit­i­cism from mar­ket par­tic­i­pants and the au­thor­i­ties and shone a spot­light on a lesser-dis­cussed vul­ner­a­bil­ity in the world’s fi­nan­cial plumb­ing – not soft­ware or se­cu­rity risks but the dan­ger when one of hun­dreds of pieces of hard­ware that make up a trad­ing sys­tem de­cides to give up the ghost.</p>
+    <p>“Ex­changes are a cru­cial part of mar­ket in­fras­truc­ture and it’s un­ac­cept­able that trad­ing op­por­tu­ni­ties were de­nied,” Fi­nance Min­is­ter Taro Aso told re­porters. “You’re deal­ing with ma­chines so it’s al­ways pos­si­ble they will break. They need to cre­ate the in­fras­truc­ture with that pos­si­bil­ity of a break­down in mind.”</p>
+    <p>The TSE’s Ar­row­head sys­tem launched to much fan­fare in 2010, billed as a mod­ern-day so­lu­tion af­ter a se­ries of out­ages on an older sys­tem em­bar­rassed the ex­change in the 2000s. The “ar­row” sym­bol­ises speed of or­der pro­cess­ing, while the “head” sug­gests ro­bust­ness and re­li­a­bil­ity, ac­cord­ing to the ex­change. The sys­tem of roughly 350 servers that process buy and sell or­ders had had a few hic­cups but no ma­jor out­ages in its first decade.</p>
+    <p>That all changed last Thurs­day, when a piece of hard­ware called the No. 1 shared disk de­vice, one of two data stor­age boxes, de­tected a mem­ory er­ror. These de­vices store man­age­ment data used across the servers, and dis­trib­ute in­for­ma­tion such as com­mands and ID and pass­word com­bi­na­tions for ter­mi­nals that mon­i­tor trades.</p>
+    <p>When the er­ror hap­pened, the sys­tem should have car­ried out what is called a “failover” – an au­to­matic switch­ing to the No. 2 de­vice. But for rea­sons the ex­change’s ex­ec­u­tives could not ex­plain, that process also failed. That had a knock-on ef­fect on servers called in­for­ma­tion dis­tri­bu­tion gate­ways that are meant to send mar­ket in­for­ma­tion to traders.</p>
+    <p>DIS­AP­PEAR­ING DATA</p>
+    <p>At 8am, traders prepar­ing at their desks for the mar­ket open­ing an hour later should have been see­ing in­dica­tive prices on their ter­mi­nals as or­ders were pro­cessed. But many saw noth­ing, while oth­ers re­ported see­ing data ap­pear­ing and dis­ap­pear­ing. They had no idea if the in­for­ma­tion was ac­cu­rate.</p>
+    <p>A minute later, the bourse made its first com­mu­ni­ca­tion, in­form­ing sys­tems ad­min­is­tra­tors at securities firms that there had been an is­sue. At some bro­ker­ages, that did not im­me­di­ately fil­ter down to be­fud­dled trad­ing desks.</p>
+    <p>At about 8:05am, Twit­ter – of­ten used by traders to com­mu­ni­cate out­side of more of­fi­cial com­mu­ni­ca­tion chan­nels mon­i­tored by com­pli­ance – be­gan to buzz with rumours of an is­sue. Traders de­scribed a grow­ing sense of con­fu­sion as few an­swers came from the bourse.</p>
+    <p>“We didn’t know if it was our sys­tem or the ex­change,” said bro­ker Masaya Ak­iba at Maru­san Securities’ stock trad­ing de­part­ment. “We con­firmed it only when the ex­change put out a re­lease.”</p>
+    <p>At 8:36am, the bourse fi­nally in­formed securities firms that trad­ing would be halted. Three minutes later, it is­sued a press re­lease on its pub­lic web­site – al­though only in Ja­panese. A con­fus­ingly trans­lated English re­lease would not fol­low for more than 90 minutes.</p>
+    <p>It was the first time in al­most 15 years the TSE had suf­fered a com­plete trad­ing out­age. The Tokyo bourse has a pol­icy of not shut­ting even dur­ing nat­u­ral dis­as­ters, so for many on trad­ing floors in the cap­i­tal, this ex­pe­ri­ence was a first.</p>
+    <p>Some mar­ket par­tic­i­pants fumed at the clo­sure. Oth­ers, with noth­ing to do, oc­cu­pied their time by read­ing re­search notes or trad­ing com­modi­ties.</p>
+    <p>“I didn’t think much of it at first,” said chief fund man­ager Kiyoshi Ishi­gane at Mit­subishi UFJ Koku­sai As­set Man­age­ment. “Pre­vi­ous out­ages were quickly re­solved so I as­sumed or­ders would just be de­layed.”</p>
+    <p>In 2012, af­ter the switchover to Ar­row­head, the ex­change had quickly re­solved lim­ited is­sues. Many ex­pected the bourse to do the same this time, too.</p>
+    <p>But as the hours passed, chief fund man­ager Ha­jime Sakai at Mito Securities grew in­creas­ingly un­easy. “I re­ally couldn’t pay at­ten­tion to much else,” he said. “I wasn’t like, ‘open the mar­ket!’ It was more like, ‘whichever it is, make your call on it, fast.’”</p>
+    <p>The call was a daunt­ing one. Af­ter the failed switch to the backup, the ex­change had man­u­ally forced a switchover to the No. 2 shared disk de­vice. At this point, the ad­min­is­tra­tors had a choice: they could seek to restart trad­ing, but this would have en­tailed a full re­set of the sys­tem – shut­ting down the power and re­boot­ing.</p>
+    <p>Data for or­ders al­ready re­ceived from securities firms would have been lost, with­out hav­ing been can­celled. That would have led to an­ar­chy, securities firms told the ex­change. Af­ter speak­ing with mar­ket par­tic­i­pants, the ex­change made its de­ci­sion: trad­ing would be called off for the en­tire day.</p>
+    <p>Many in the mar­ket said they were re­lieved. A call to re­sume trad­ing would have been chaotic, said one worker at a Tokyo-based bro­ker­age, with no way to tell which ex­ist­ing client or­ders re­mained ac­tive, while also try­ing to process new asks and bids.</p>
+    <p>At 4:30pm, four TSE ex­ec­u­tives, in­clud­ing chief ex­ec­u­tive of­fi­cer</p>
+    <p>Koichiro Miya­hara and chief in­for­ma­tion of­fi­cer Ryusuke Yokoyama, faced jour­nal­ists at the ex­change to ex­plain the out­age.</p>
+    <p>In a brief­ing that lasted about 100 minutes, they bowed in apol­ogy in front of the crowded room be­fore go­ing into a de­tailed tech­ni­cal dis­cus­sion of the break­down.</p>
+    <p>If the bourse was crit­i­cised for its com­mu­ni­ca­tions ear­lier in the day, it won praise for how it han­dled the press con­fer­ence. The ex­ec­u­tives an­swered ques­tions from the me­dia with rel­a­tive ease, dis­cussing ar­eas such as sys­tems ar­chi­tec­ture in highly tech­ni­cal terms. They also squarely ac­cepted re­spon­si­bil­ity for the in­ci­dent, rather than try­ing to de­flect blame onto the sys­tem vendor Fu­jitsu.</p>
+    <p>“Man­age­ment ex­plained very clearly dur­ing the brief­ing,” said senior an­a­lyst Megumi Takarada at Toyo Securities.</p>
+    <p>Later in the evening, the an­nounce­ment came that the bourse would restart trad­ing the next day. While that passed with­out is­sue, many ques­tions re­main unan­swered. One ques­tion is whether the same kind of hard­ware-driven fail­ure could hap­pen in other stock mar­kets.</p>
+    <p>“There’s noth­ing uniquely Ja­panese about this,” said Mr Ni­cholas Smith of CLSA in Tokyo. “I think we’ve just got to put that in the box of ‘stuff hap­pens’. These things hap­pen. They shouldn’t, but they do.”</p>
+    <p>It was the first time in al­most 15 years the Tokyo Stock Ex­change had suf­fered a com­plete trad­ing out­age. The Tokyo bourse has a pol­icy of not shut­ting even dur­ing nat­u­ral dis­as­ters, so for many on trad­ing floors in the cap­i­tal, this ex­pe­ri­ence was a first.Some mar­ket par­tic­i­pants fumed at the clo­sure. Oth­ers, with noth­ing to do, oc­cu­pied their time by read­ing re­search notes or trad­ing com­modi­ties.</p>
+
+
+</article>
+
+<section>
+    <h3><a href="/catalog/language/english">Newspapers in English</a></h3>
+    <h3><a href="/catalog/country/singapore">Newspapers from Singapore</a></h3>
+</section>
+
+    </div>
+    
+    <p><a href="http://www.pressreader.com">© PressReader. All rights reserved.</a></p>
+
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments);
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g;
+                m.parentNode.insertBefore(a, m);
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        </script>
+        <script>
+            ga('create', 'UA-44408245-1');
+            ga('send', 'pageView');
+        </script>
+</body>
+</html>

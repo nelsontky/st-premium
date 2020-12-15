@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PressReader - The Straits Times: 2020-08-29 - TorqueShop</title>
+    <meta name="description" content="">
+    <meta content="magazines, newspapers, digital news, reading, news, breaking news, newspaper online" name="keywords">
+    <meta name="Robots" content="NOARCHIVE,NOODP">
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    <link rel="canonical" href="/singapore/the-straits-times/20200829/282617445134624" />
+
+
+    <style>
+        li {
+            margin: 1em 0;
+        }
+        img {
+            max-width: 100%;
+        }
+        p, h1, h2, h3 {
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        
+
+<article>
+    <h1>TorqueShop</h1>
+    <h2></h2>
+    <section>
+        <a href="/singapore/the-straits-times/textview" title="The Straits Times">The Straits Times</a>
+        - <a href="/singapore/the-straits-times/20200829/textview" title="The Straits Times - 2020-08-29"><time>2020-08-29</time></a>
+        - <span>LIFE | MOTORING</span>
+        - <span role="byline">Shree&#xAD;jit Changaroth</span>
+    </section>
+
+    <p>Why is it that the com­bined out­put of a hy­brid car is rarely the sum of what the en­gine and mo­tor pro­duce?</p>
+    <p>Many sus­pect that the fig­ure for “com­bined power” in a hy­brid’s spec­i­fi­ca­tion sheet is a typo. It never equates to the sum to­tal of the elec­tric mo­tor’s and en­gine’s max­i­mum power out­puts.</p>
+    <p>For ex­am­ple, a hy­brid with a 150hp 4-cylin­der in­ter­nal com­bus­tion en­gine (ICE) and a 50hp elec­tric mo­tor will not have a com­bined max­i­mum out­put of 200hp. It is usu­ally a lit­tle lower and there is a log­i­cal rea­son for this.</p>
+    <p>Elec­tric mo­tors have dif­fer­ent per­for­mance char­ac­ter­is­tics com­pared to ICEs.</p>
+    <p>Most sig­nif­i­cantly, max­i­mum torque is pro­duced the mo­ment it starts and con­tin­ues to stay con­stant up to its rated max­i­mum speed.</p>
+    <p>In com­par­i­son, the ICE’s torque rises grad­u­ally with en­gine speed and only peaks some­where higher up the en­gine speed range and this varies from en­gine to en­gine.</p>
+    <p>Power is a de­rived fig­ure for ICEs, cal­cu­lated by mul­ti­ply­ing the mea­sured torque with en­gine speed.</p>
+    <p>A typ­i­cal 4-cylin­der ICE de­liv­ers peak torque some­where in the re­gion of 2,000 to 4,000 rpm. Peak power how­ever hap­pens around 6,000 rpm or so. This is be­cause even though torque starts to tail off, the in­creas­ing rpm helps keep the power fig­ures (torque x en­gine speed) ris­ing, up to a point.</p>
+    <p>For the elec­tric mo­tor, peak torque is de­liv­ered in­stantly and con­stantly from any­thing above zero rpm.</p>
+    <p>Mo­tors used in hy­brid ve­hi­cles usu­ally de­liver the max­i­mum torque till about 3,000 rpm, which is the point of peak power. There­after, the torque out­put be­gins to di­min­ish.</p>
+    <p>It is ob­vi­ous the two drive units do not pro­duce their re­spec­tive max­i­mum power at the same rpm.</p>
+    <p>Hence, a sim­ple arith­metic sum of the two power out­puts is rather mean­ing­less.</p>
+    <p>In­stead, the ac­tual com­bined horsepower or kilo­watt is the high­est to­tal fig­ure ob­tained by the sum of the two out­puts oc­cur­ring some­where be­tween the mo­tor’s and ICE’s peak power.</p>
+
+
+</article>
+
+<section>
+    <h3><a href="/catalog/language/english">Newspapers in English</a></h3>
+    <h3><a href="/catalog/country/singapore">Newspapers from Singapore</a></h3>
+</section>
+
+    </div>
+    
+    <p><a href="http://www.pressreader.com">© PressReader. All rights reserved.</a></p>
+
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments);
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g;
+                m.parentNode.insertBefore(a, m);
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        </script>
+        <script>
+            ga('create', 'UA-44408245-1');
+            ga('send', 'pageView');
+        </script>
+</body>
+</html>

@@ -1,12 +1,9 @@
-FROM node:current-alpine3.10
-
+FROM node:lts-alpine3.10
 WORKDIR /app
-
 COPY package*.json ./
-
 RUN npm install
 
 COPY . .
 
 EXPOSE 3000
-CMD [ "npm", "run", "dev" ]
+CMD [ "npm", "run", "start" ]

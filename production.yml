@@ -1,14 +1,24 @@
+version: "3.8"
+
 services:
-  app:
-    command: sh -c "npm install && cd client/ && npm install && cd ../ && npm run start:prod"
+  server:
+    build: ./server
     restart: always
 
+  client:
+    build: ./client
+    restart: always
+    ports:
+      - 3000:3000
+
   mongo:
+    image: mongo
+    volumes:
+      - st-premium-mongo:/data/db
     restart: always
 
   scrape:
-    image: node:current-buster
-    command: sh -c "npm install -g typescript && npm install && npm run prod"
-    working_dir: /scrape
-    volumes:
-      - ./scrape:/scrape
+    build: ./scrape
+
+volumes:
+  st-premium-mongo:

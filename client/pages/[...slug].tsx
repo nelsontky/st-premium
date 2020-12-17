@@ -96,7 +96,7 @@ export default function Post({
           ></meta>
         )}
       </Head>
-      
+
       <article>
         <Typography variant="h6" gutterBottom>
           {article.headline}
@@ -134,7 +134,7 @@ export const getServerSideProps: GetServerSideProps = async ({ params }) => {
       : params.slug;
 
     const article: IArticle = (
-      await axios.get(`http://localhost:5000/api/v1?pathname=/${pathname}`)
+      await axios.get(`http://server:5000/api/v1?pathname=/${pathname}`)
     ).data;
 
     return {

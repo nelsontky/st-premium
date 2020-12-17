@@ -18,7 +18,11 @@ services:
     restart: always
 
   scrape:
-    build: ./scrape
+    image: node:current-buster
+    command: sh -c "npm install -g typescript && npm install && npm run prod"
+    working_dir: /scrape
+    volumes:
+      - ./scrape:/scrape
 
 volumes:
   st-premium-mongo:

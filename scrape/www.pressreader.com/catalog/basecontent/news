@@ -854,10 +854,10 @@
             <a href="/germany/bergische-morgenpost-wermelskirchen-huckeswagen-radevormwald/textview">Bergische Morgenpost Wermelskirchen/H&#xFC;ckeswagen/Radevormwald</a>
         </li>
         <li>
-            <a href="/singapore/berita-harian-singapore/textview">Berita Harian</a>
+            <a href="/malaysia/berita-harian-malaysia/textview">Berita Harian</a>
         </li>
         <li>
-            <a href="/malaysia/berita-harian-malaysia/textview">Berita Harian</a>
+            <a href="/singapore/berita-harian-singapore/textview">Berita Harian</a>
         </li>
         <li>
             <a href="/switzerland/berner-oberlander/textview">Berner Oberlander</a>
@@ -3197,6 +3197,9 @@
             <a href="/australia/kalgoorlie-miner/textview">Kalgoorlie Miner</a>
         </li>
         <li>
+            <a href="/usa/kane-republican/textview">Kane Republican</a>
+        </li>
+        <li>
             <a href="/new-zealand/kapiti-news/textview">Kapiti News</a>
         </li>
         <li>
@@ -3605,10 +3608,10 @@
             <a href="/colombia/la-o-cucuta/textview">La O (C&#xFA;cuta)</a>
         </li>
         <li>
-            <a href="/usa/la-opinion-2078/textview">La Opini&#xF3;n</a>
+            <a href="/colombia/la-opinion-ea57/textview">La Opini&#xF3;n</a>
         </li>
         <li>
-            <a href="/colombia/la-opinion-ea57/textview">La Opini&#xF3;n</a>
+            <a href="/usa/la-opinion-2078/textview">La Opini&#xF3;n</a>
         </li>
         <li>
             <a href="/usa/la-opinion-de-la-bahia/textview">La Opini&#xF3;n de la Bah&#xED;a</a>
@@ -3701,10 +3704,10 @@
             <a href="/chile/la-tribuna-los-angeles-chile/textview">La Tribuna (Los Angeles, Chile)</a>
         </li>
         <li>
-            <a href="/canada/la-tribune-canada/textview">La Tribune</a>
+            <a href="/france/la-tribune-france/textview">La Tribune</a>
         </li>
         <li>
-            <a href="/france/la-tribune-france/textview">La Tribune</a>
+            <a href="/canada/la-tribune-canada/textview">La Tribune</a>
         </li>
         <li>
             <a href="/france/la-tribune-hebdomadaire/textview">La Tribune Hebdomadaire</a>
@@ -4406,6 +4409,9 @@
             <a href="/india/millennium-post/textview">Millennium Post</a>
         </li>
         <li>
+            <a href="/india/millennium-post-kolkata/textview">Millennium Post Kolkata</a>
+        </li>
+        <li>
             <a href="/turkey/milliyet/textview">Milliyet</a>
         </li>
         <li>
@@ -4994,6 +5000,9 @@
             <a href="/bolivia/oh-los-tiempos/textview">OH! - Los Tiempos</a>
         </li>
         <li>
+            <a href="/angola/opais-angola/textview">OPais (Angola)</a>
+        </li>
+        <li>
             <a href="/italy/oggi/textview">Oggi</a>
         </li>
         <li>
@@ -5498,6 +5507,9 @@
             <a href="/usa/richmond-times-dispatch-weekend/textview">Richmond Times-Dispatch Weekend</a>
         </li>
         <li>
+            <a href="/usa/ridgway-record/textview">Ridgway Record</a>
+        </li>
+        <li>
             <a href="/germany/rieser-nachrichten/textview">Rieser Nachrichten</a>
         </li>
         <li>
@@ -5981,13 +5993,13 @@
             <a href="/philippines/sunstar-pampanga/textview">Sun.Star Pampanga</a>
         </li>
         <li>
-            <a href="/india/sunday-express-8291/textview">Sunday Express</a>
+            <a href="/lesotho/sunday-express-9f83/textview">Sunday Express</a>
         </li>
         <li>
             <a href="/uk/sunday-express-1070/textview">Sunday Express</a>
         </li>
         <li>
-            <a href="/lesotho/sunday-express-9f83/textview">Sunday Express</a>
+            <a href="/india/sunday-express-8291/textview">Sunday Express</a>
         </li>
         <li>
             <a href="/australia/sunday-herald-sun/textview">Sunday Herald Sun</a>
@@ -6144,6 +6156,9 @@
         </li>
         <li>
             <a href="/philippines/superbalita-davao/textview">SuperBalita Davao</a>
+        </li>
+        <li>
+            <a href="/sweden/svenska-dagbladet-9leh/textview">Svenska Dagbladet</a>
         </li>
         <li>
             <a href="/nigeria/sweetcrude/textview">SweetCrude Monthly Edition</a>
@@ -6441,6 +6456,9 @@
         </li>
         <li>
             <a href="/egypt/the-daily-news-egypt/textview">The Daily News Egypt</a>
+        </li>
+        <li>
+            <a href="/usa/the-daily-press/textview">The Daily Press</a>
         </li>
         <li>
             <a href="/canada/the-daily-press-timmins/textview">The Daily Press (Timmins)</a>

@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>What is known about the at&#xAD;tack - PressReader</title>
+    <meta name="description" content="">
+    <meta content="magazines, newspapers, digital news, reading, news, breaking news, newspaper online" name="keywords">
+    <meta name="Robots" content="NOARCHIVE,NOODP">
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    <link rel="canonical" href="/singapore/the-straits-times/20201219/281818581429693" />
+
+
+    <style>
+        li {
+            margin: 1em 0;
+        }
+        img {
+            max-width: 100%;
+        }
+        p, h1, h2, h3 {
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        
+
+<article>
+    <h1>What is known about the at&#xAD;tack</h1>
+    <h2></h2>
+    <section>
+        <a href="/singapore/the-straits-times/textview" title="The Straits Times">The Straits Times</a>
+        - <a href="/singapore/the-straits-times/20201219/textview" title="The Straits Times - 2020-12-19"><time>2020-12-19</time></a>
+        - <span>WORLD</span>
+        - <span role="byline">AGENCE FRANCE-PRESSE</span>
+    </section>
+
+    <p>1</p>
+    <p>HOW DID THE HACK­ERS GET IN?</p>
+    <p>Hack­ers man­aged to com­pro­mise and in­stall mal­ware on a piece of se­cu­rity soft­ware – the Orion se­cu­rity tool de­vel­oped by So­larWinds which is used for man­age­ment and su­per­vi­sion of IT net­works.</p>
+    <p>The hack­ers aimed to com­pro­mise the soft­ware’s au­to­matic up­date func­tion. The break-in fur­ther al­lowed them to gain an idea of their vic­tim’s sys­temic struc­tural vul­ner­a­bil­i­ties.</p>
+    <p>The mal­ware was laced into the soft­ware up­dates that breached net­work se­cu­rity and al­lowed ac­cess to data, in­clud­ing mail, with FireEye say­ing the breaches be­gan around March.</p>
+    <p>2</p>
+    <p>WHO ARE</p>
+    <p>THE VIC­TIMS?</p>
+    <p>Ac­cord­ing to So­larWinds, 18,000 users of Orion have po­ten­tially suf­fered a se­cu­rity breach, in­clud­ing govern­ment agen­cies and For­tune 500 com­pa­nies. Th­ese in­clude:</p>
+    <p>Firms or in­sti­tu­tions that have used in­fected up­dates are urged to dis­con­nect their servers and check for tell­tale signs their data might have been com­pro­mised.</p>
+    <p>3</p>
+    <p>WHO IS TO BLAME?</p>
+    <p>FireEye and Mi­crosoft be­lieve the at­tack was by a na­tion state and ex­pert anal­y­sis has pointed the fin­ger at Rus­sia, as have anony­mous US se­cu­rity sources.</p>
+    <p>Th­ese US sources have fo­cused on an or­gan­i­sa­tion known as ad­vanced per­sis­tent threat (APT) 29, or Cozy Bear, which is be­lieved to be linked to one or more Rus­sian in­tel­li­gence agen­cies and pre­vi­ously pi­rated the White House un­der for­mer US pres­i­dent Barack Obama.</p>
+    <p>4</p>
+    <p>LESSONS TO LEARN</p>
+    <p>Mr Jac­ques de la Riviere, who runs French cy­ber-se­cu­rity firm Gate­watcher, says he has re­sponded by ramp­ing up pro­tec­tion on his own servers.</p>
+    <p>Be­yond that, he hopes the high-pro­file at­tack will en­cour­age firms and in­sti­tu­tions to be more de­mand­ing when it comes to ste­ward­ship of their data and soft­ware se­cu­rity.</p>
+    <p>“This could be a turn­ing point, where many clients are go­ing to start say­ing ‘I no longer want to pur­chase soft­ware that has not been cer­ti­fied by a third party’,” he said.</p>
+
+
+</article>
+
+<section>
+    <h3><a href="/catalog/language/english">Newspapers in English</a></h3>
+    <h3><a href="/catalog/country/singapore">Newspapers from Singapore</a></h3>
+</section>
+
+    </div>
+    
+    <p><a href="http://www.pressreader.com">© PressReader. All rights reserved.</a></p>
+
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments);
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g;
+                m.parentNode.insertBefore(a, m);
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        </script>
+        <script>
+            ga('create', 'UA-44408245-1');
+            ga('send', 'pageView');
+        </script>
+</body>
+</html>

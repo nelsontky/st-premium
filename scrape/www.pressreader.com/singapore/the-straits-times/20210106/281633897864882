@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>What data does TraceTo&#xAD;gether col&#xAD;lect? - PressReader</title>
+    <meta name="description" content="">
+    <meta content="magazines, newspapers, digital news, reading, news, breaking news, newspaper online" name="keywords">
+    <meta name="Robots" content="NOARCHIVE,NOODP">
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    <link rel="canonical" href="/singapore/the-straits-times/20210106/281633897864882" />
+
+
+    <style>
+        li {
+            margin: 1em 0;
+        }
+        img {
+            max-width: 100%;
+        }
+        p, h1, h2, h3 {
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        
+
+<article>
+    <h1>What data does TraceTo&#xAD;gether col&#xAD;lect?</h1>
+    <h2></h2>
+    <section>
+        <a href="/singapore/the-straits-times/textview" title="The Straits Times">The Straits Times</a>
+        - <a href="/singapore/the-straits-times/20210106/textview" title="The Straits Times - 2021-01-06"><time>2021-01-06</time></a>
+        - <span>THE BIG STORY</span>
+        - <span role="byline"></span>
+    </section>
+
+    <p>The TraceTo­gether to­ken and mo­bile phone app are used for con­tact trac­ing. They ex­change short-dis­tance Blue­tooth sig­nals with nearby users of the to­ken or app to quickly track peo­ple ex­posed to con­firmed Covid-19 cases.</p>
+    <p>• On sign­ing up for TraceTo­gether, a ran­dom user ID (a string of num­bers and let­ters) is gen­er­ated and linked to the user ’s con­tact num­ber and iden­ti­fi­ca­tion de­tails, such as his name and NRIC num­ber.</p>
+    <p>• These de­tails are stored in a se­cure server. The Min­istry of Health (MOH) uses the iden­ti­fi­ca­tion de­tails to con­tact the right per­son when nec­es­sary.</p>
+    <p>• When app or to­ken users are near one an­other, their user IDs are ex­changed in an en­crypted and ran­domised form, and can be de­crypted only by MOH.</p>
+    <p>• The en­crypted Blue­tooth data ex­changed is stored in the app or to­ken, and does not con­tain per­sonal iden­ti­fi­able in­for­ma­tion.</p>
+    <p>• Blue­tooth data older than 25 days is erased au­to­mat­i­cally.</p>
+    <p>• Only when a user tests pos­i­tive for Covid-19 will MOH re­quest that he up­load the Blue­tooth data to the Gov­ern­ment's servers for trac­ing close con­tacts.</p>
+    <p>• The app also col­lects anonymised in­for­ma­tion about a user ’s phone and app, such as the phone model and app ver­sion, to help the Gov­ern­ment im­prove the app and pro­vide a bet­ter user ex­pe­ri­ence. This col­lected data does not have per­sonal iden­ti­fi­able in­for­ma­tion.</p>
+    <p>No global po­si­tion­ing sys­tem lo­ca­tion data is col­lected.</p>
+    <p>The An­droid ver­sion of the app needs “lo­ca­tion per­mis­sion” from the user be­cause An­droid re­quires apps re­quest­ing Blue­tooth ac­cess to also get per­mis­sion to ac­cess the user ’s lo­ca­tion in­for­ma­tion. Still, the TraceTo­gether app does not col­lect or use the lo­ca­tion data on An­droid de­vices.</p>
+    <p>Data about a user ’s Wi-Fi and mo­bile net­works is not col­lected.</p>
+
+    <div>
+        <picture>
+            <img src="https://i.prcdn.co/img?regionKey=Sz5tpfgQnS%2bUHb2Fr%2f7vlw%3d%3d" />
+        </picture>
+        <span role="byline"></span>
+        <p data-role="text"></p>
+    </div>
+    <div>
+        <picture>
+            <img src="https://i.prcdn.co/img?regionKey=%2b9r0r3BgVn5BRfEY8L1nag%3d%3d" />
+        </picture>
+        <span role="byline"></span>
+        <p data-role="text"></p>
+    </div>
+    <div>
+        <picture>
+            <img src="https://i.prcdn.co/img?regionKey=0uU1WHbANmyohpEZ2IfbIw%3d%3d" />
+        </picture>
+        <span role="byline">TEXT: KENNY CHEE SOURCE: WWW.TRACETO&#xAD;GETHER.GOV.SG ST PHOTOS: KUA CHEE SIONG, GAVIN FOO, CHONG JUN LIANG STRAITS TIMES GRAPHICS</span>
+        <p data-role="text"></p>
+    </div>
+
+</article>
+
+<section>
+    <h3><a href="/catalog/language/english">Newspapers in English</a></h3>
+    <h3><a href="/catalog/country/singapore">Newspapers from Singapore</a></h3>
+</section>
+
+    </div>
+    
+    <p><a href="http://www.pressreader.com">© PressReader. All rights reserved.</a></p>
+
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments);
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g;
+                m.parentNode.insertBefore(a, m);
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        </script>
+        <script>
+            ga('create', 'UA-44408245-1');
+            ga('send', 'pageView');
+        </script>
+</body>
+</html>

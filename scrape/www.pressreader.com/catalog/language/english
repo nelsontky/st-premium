@@ -20,11 +20,38 @@
         p, h1, h2, h3 {
             max-width: 100%;
         }
+
+        .logo {
+            display: inline-block;
+            max-width: 100%;
+            width: 100%;
+            height:100px;
+            text-indent: -10000px;
+            overflow: hidden;
+            background-image: url( https://r.prcdn.co/res//en-US/g3416/t0/2/images/pr-logo-new.svg );
+            background-repeat: no-repeat;
+            background-position: top left;
+        }
+        figure {
+            border:0;
+            padding: 0;
+            margin: auto;
+        }
     </style>
 </head>
 <body>
-    <div>
-        
+    <header>
+        <p><a href="/" class="logo"><span>PressReader</span></a></p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="/catalog">Catalog</a></li>
+            <li><a href="/">Home feed</a></li>
+        </ul>
+    </nav>
+
+    
 <h1>English - <a href="/catalog">Publications</a></h1>
 
 <ul>
@@ -503,6 +530,9 @@
             <a href="/australia/australia-magazine/textview">Australia Magazine</a>
         </li>
         <li>
+            <a href="/australia/australian-camera/textview">Australian Camera</a>
+        </li>
+        <li>
             <a href="/australia/australianforestsandtimber/textview">Australian Forests and Timber</a>
         </li>
         <li>
@@ -512,16 +542,22 @@
             <a href="/australia/australian-guitar/textview">Australian Guitar</a>
         </li>
         <li>
-            <a href="/australia/australian-hifi/textview">Australian HIFI</a>
+            <a href="/australia/australian-hifi/textview">Australian Hi-Fi</a>
         </li>
         <li>
             <a href="/australia/australian-house-garden/textview">Australian House &amp; Garden</a>
+        </li>
+        <li>
+            <a href="/australia/australian-motorcyclist-magazine/textview">Australian Motorcyclist Magazine</a>
         </li>
         <li>
             <a href="/australia/australian-mountain-bike/textview">Australian Mountain Bike</a>
         </li>
         <li>
             <a href="/australia/australian-muscle-car/textview">Australian Muscle Car</a>
+        </li>
+        <li>
+            <a href="/australia/australian-prophoto/textview">Australian ProPhoto</a>
         </li>
         <li>
             <a href="/australia/australian-t3/textview">Australian T3</a>
@@ -552,6 +588,9 @@
         </li>
         <li>
             <a href="/uk/ayrshire-post/textview">Ayrshire Post</a>
+        </li>
+        <li>
+            <a href="/azerbaijan/azer-news/textview">Azer News</a>
         </li>
         <li>
             <a href="/azerbaijan/azeri-observer/textview">Azeri Observer</a>
@@ -650,7 +689,7 @@
             <a href="/spain/basque-luxury-magazine/textview">Basque Luxury Magazine</a>
         </li>
         <li>
-            <a href="/uk/bass-magazine/textview">Bass Magazine</a>
+            <a href="/uk/bass-player/textview">Bass Player</a>
         </li>
         <li>
             <a href="/uk/bath-chronicle/textview">Bath Chronicle</a>
@@ -1146,9 +1185,6 @@
         </li>
         <li>
             <a href="/usa/cambrian-resident/textview">Cambrian Resident</a>
-        </li>
-        <li>
-            <a href="/australia/camera/textview">Camera</a>
         </li>
         <li>
             <a href="/uae/campaign-middle-east/textview">Campaign Middle East</a>
@@ -1649,7 +1685,7 @@
             <a href="/uk/country-homes-interiors/textview">Country Homes &amp; Interiors</a>
         </li>
         <li>
-            <a href="/uk/country-life-every-week/textview">Country Life Every Week</a>
+            <a href="/uk/country-life/textview">Country Life</a>
         </li>
         <li>
             <a href="/uk/country-living-uk/textview">Country Living (UK)</a>
@@ -1728,6 +1764,9 @@
         </li>
         <li>
             <a href="/usa/creative-knitting-simple-knits-for-spring-and-summer/textview">Creative Knitting - Simple Knits for Spring and Summer</a>
+        </li>
+        <li>
+            <a href="/uk/creative-steps/textview">Creative Steps</a>
         </li>
         <li>
             <a href="/uk/crewe-chronicle/textview">Crewe Chronicle</a>
@@ -1905,6 +1944,9 @@
         </li>
         <li>
             <a href="/south-africa/daily-news-south-africa/textview">Daily News</a>
+        </li>
+        <li>
+            <a href="/usa/daily-news-red-bluff/textview">Daily News (Red Bluff)</a>
         </li>
         <li>
             <a href="/jamaica/daily-observer-jamaica/textview">Daily Observer (Jamaica)</a>
@@ -2501,10 +2543,10 @@
             <a href="/usa/footwear-news/textview">Footwear News</a>
         </li>
         <li>
-            <a href="/usa/forbes/textview">Forbes</a>
+            <a href="/usa/forbes-v508/textview">Forbes</a>
         </li>
         <li>
-            <a href="/usa/forbes-v508/textview">Forbes</a>
+            <a href="/usa/forbes/textview">Forbes</a>
         </li>
         <li>
             <a href="/uae/forbes-middle-east/textview">Forbes Middle East</a>
@@ -2583,6 +2625,9 @@
         </li>
         <li>
             <a href="/france/greater-paris/textview">GREATER PARIS</a>
+        </li>
+        <li>
+            <a href="/indonesia/gress-magazine-9yq5/textview">GRESS Magazine</a>
         </li>
         <li>
             <a href="/spain/gs-magazine/textview">GS Magazine</a>
@@ -3452,6 +3497,9 @@
             <a href="/south-africa/indwe/textview">Indwe</a>
         </li>
         <li>
+            <a href="/uk/ink-pellet/textview">Ink Pellet</a>
+        </li>
+        <li>
             <a href="/south-africa/inner-city-gazette/textview">Inner City Gazette</a>
         </li>
         <li>
@@ -3567,9 +3615,6 @@
         </li>
         <li>
             <a href="/mauritius/islander-eng-fre/textview">Islander (English - French)</a>
-        </li>
-        <li>
-            <a href="/israel/israel-news-faxx/textview">Israel News Faxx</a>
         </li>
         <li>
             <a href="/usa/j-14/textview">J-14</a>
@@ -4220,7 +4265,7 @@
             <a href="/usa/maxim/textview">Maxim</a>
         </li>
         <li>
-            <a href="/australia/maximum-pc/textview">Maximum PC</a>
+            <a href="/usa/maximum-pc/textview">Maximum PC</a>
         </li>
         <li>
             <a href="/indonesia/maxx-m/textview">Maxx-M</a>
@@ -4376,7 +4421,7 @@
             <a href="/india/millennium-post/textview">Millennium Post</a>
         </li>
         <li>
-            <a href="/india/millennium-post-kolkata/textview">Millennium Post Kolkata</a>
+            <a href="/india/millennium-post-kolkata/textview">Millennium Post (Kolkata)</a>
         </li>
         <li>
             <a href="/india/millionaireasia-india/textview">MillionaireAsia India</a>
@@ -5087,9 +5132,6 @@
             <a href="/india/peaklife/textview">PeakLife</a>
         </li>
         <li>
-            <a href="/canada/pedal-magazine/textview">Pedal Magazine</a>
-        </li>
-        <li>
             <a href="/canada/penticton-herald/textview">Penticton Herald</a>
         </li>
         <li>
@@ -5097,6 +5139,9 @@
         </li>
         <li>
             <a href="/usa/people-usa/textview">People (USA)</a>
+        </li>
+        <li>
+            <a href="/nepal/people-s-review-weekly/textview">People&#x27;s Review Weekly</a>
         </li>
         <li>
             <a href="/uk/period-living/textview">Period Living</a>
@@ -5130,6 +5175,9 @@
         </li>
         <li>
             <a href="/canada/photoed-magazine/textview">PhotoEd Magazine</a>
+        </li>
+        <li>
+            <a href="/uk/photography-masterclass-magazine/textview">Photography Masterclass Magazine</a>
         </li>
         <li>
             <a href="/india/physics-for-you/textview">Physics for you</a>
@@ -5318,9 +5366,6 @@
             <a href="/new-zealand/prime-times/textview">Prime Times</a>
         </li>
         <li>
-            <a href="/australia/prophoto/textview">ProPhoto</a>
-        </li>
-        <li>
             <a href="/australia/procycling/textview">Procycling</a>
         </li>
         <li>
@@ -5421,6 +5466,9 @@
         </li>
         <li>
             <a href="/uk/rail-express-9L24/textview">Rail Express</a>
+        </li>
+        <li>
+            <a href="/uk/railways-illustrated/textview">Railways Illustrated</a>
         </li>
         <li>
             <a href="/usa/raise-vegan/textview">Raise Vegan</a>
@@ -5571,6 +5619,9 @@
         </li>
         <li>
             <a href="/canada/rotman-management-magazine/textview">Rotman Management Magazine</a>
+        </li>
+        <li>
+            <a href="/usa/rotor-drone/textview">Rotor Drone</a>
         </li>
         <li>
             <a href="/new-zealand/rotorua-daily-post/textview">Rotorua Daily Post</a>
@@ -5930,7 +5981,7 @@
             <a href="/new-zealand/ski-snow/textview">Ski &amp; Snow</a>
         </li>
         <li>
-            <a href="/canada/skitrax/textview">SkiTrax</a>
+            <a href="/canada/ski-canada-magazine/textview">Ski Canada Magazine</a>
         </li>
         <li>
             <a href="/south-africa/sky-news/textview">Sky News</a>
@@ -6146,6 +6197,9 @@
             <a href="/usa/starkville-daily-news/textview">Starkville Daily News</a>
         </li>
         <li>
+            <a href="/uk/steam-days/textview">Steam Days</a>
+        </li>
+        <li>
             <a href="/uk/steam-railway-uk/textview">Steam Railway (UK)</a>
         </li>
         <li>
@@ -6248,7 +6302,7 @@
             <a href="/usa/sun-sentinel-palm-beach-edition-showtime-palm-beach/textview">Sun Sentinel Palm Beach Edition - Showtime - Palm Beach</a>
         </li>
         <li>
-            <a href="/philippines/sun-start-bacolod/textview">Sun Star Bacolod</a>
+            <a href="/philippines/sun-star-bacolod/textview">Sun Star Bacolod</a>
         </li>
         <li>
             <a href="/philippines/sunstar-baguio/textview">Sun.Star Baguio</a>
@@ -6785,10 +6839,10 @@
             <a href="/usa/the-christian-science-monitor/textview">The Christian Science Monitor</a>
         </li>
         <li>
-            <a href="/australia/the-chronicle-8992/textview">The Chronicle</a>
+            <a href="/uk/the-chronicle-9c96/textview">The Chronicle</a>
         </li>
         <li>
-            <a href="/uk/the-chronicle-9c96/textview">The Chronicle</a>
+            <a href="/australia/the-chronicle-8992/textview">The Chronicle</a>
         </li>
         <li>
             <a href="/canada/the-chronicle-herald-metro/textview">The Chronicle Herald (Metro)</a>
@@ -9017,6 +9071,9 @@
             <a href="/usa/wwd-digital-daily/textview">WWD Digital Daily</a>
         </li>
         <li>
+            <a href="/usa/wwii-fighters/textview">WWII Fighters</a>
+        </li>
+        <li>
             <a href="/new-zealand/waikato-news/textview">Waikato News</a>
         </li>
         <li>
@@ -9380,6 +9437,9 @@
             <a href="/usa/winter-dining-guide/textview">Winter Dining Guide</a>
         </li>
         <li>
+            <a href="/france/winter-sensations-efdt/textview">Winter Sensations</a>
+        </li>
+        <li>
             <a href="/usa/wired/textview">Wired (USA)</a>
         </li>
         <li>
@@ -9650,10 +9710,22 @@
 
 
 
-    </div>
-    
-    <p><a href="http://www.pressreader.com">© PressReader. All rights reserved.</a></p>
 
+    <footer>
+        <p><a href="/" class="logo"><span>PressReader</span></a></p>
+        <nav>
+            <ul>
+                    <li><a href="http://about.pressreader.com">Work with us</a></li>
+                    <li><a href="https://about.pressreader.com/news/">Blog</a></li>
+                    <li><a href="http://care.pressreader.com/hc/">Help center</a></li>
+                    <li><a href="https://itunes.apple.com/app/pressreader/id313904711?amp%3Bmt=8&amp;mt=8">Download on the App Store</a></li>
+                    <li><a href="https://play.google.com/store/apps/details?id=com.newspaperdirect.pressreader.android">Get it on App Store</a></li>
+            </ul>
+        </nav>
+        <p><a href="https://care.pressreader.com/hc/en-us/articles/206528495-Terms-of-Use" target="_blank">Terms of Use</a> / <a href="https://care.pressreader.com/hc/en-us/articles/205818089-Privacy-Policy" target="_blank">Privacy Policy</a> / <a href="https://care.pressreader.com/hc/en-us/articles/360038010812-Privacy-Notice-for-California-Residents" target="_blank">CCPA</a></p>
+        <p>© 2003-2020 PressReader</p>
+    </footer>
+    
         <script>
             (function (i, s, o, g, r, a, m) {
                 i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
@@ -9664,8 +9736,8 @@
             })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
         </script>
         <script>
-            ga('create', 'UA-44408245-1');
-            ga('send', 'pageView');
+        ga('create', 'UA-44408245-1');
+        ga('send', 'pageView');
         </script>
 </body>
 </html>

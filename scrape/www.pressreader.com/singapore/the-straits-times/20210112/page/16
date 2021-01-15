@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>The Straits Times - 2021-01-12 - PressReader</title>
+    <meta name="description" content="PressReader - OPINION: 16 : A16">
+    <meta content="magazines, newspapers, digital news, reading, news, breaking news, newspaper online" name="keywords">
+    <meta name="Robots" content="NOARCHIVE,NOODP">
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+
+    <style>
+        li {
+            margin: 1em 0;
+        }
+        img {
+            max-width: 100%;
+        }
+        p, h1, h2, h3 {
+            max-width: 100%;
+        }
+
+        .logo {
+            display: inline-block;
+            max-width: 100%;
+            width: 100%;
+            height:100px;
+            text-indent: -10000px;
+            overflow: hidden;
+            background-image: url( https://r.prcdn.co/res//en-US/g3416/t0/2/images/pr-logo-new.svg );
+            background-repeat: no-repeat;
+            background-position: top left;
+        }
+        figure {
+            border:0;
+            padding: 0;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <p><a href="/" class="logo"><span>PressReader</span></a></p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="/catalog">Catalog</a></li>
+            <li><a href="/">Home feed</a></li>
+        </ul>
+    </nav>
+
+    <h1>The Straits Times : 2021-01-12</h1>
+
+<h2>OPINION : 16 : A16</h2>
+
+<section>
+    <h3>OPINION</h3>
+    <p>
+        A16 THE STRAITS TIMES TUESDAY, JANUARY 12, 2021 | | | OPINION THE STRAITS TIMES Ong Hwee Hwee Jeremy Au Yong Mak Mun San Li Xueying
+Peter Williams Stephanie Yeow Angelina Choy ST Digital Editor Mobile Editor Website Editor Enterprise Editor
+Art Editor
+Photo Editor Forum Editor Zakir Hussain Karamjit Kaur
+Chang Ai-Lien Bhagyashre­e Garekar Susan Long
+Lee Yulin Singapore Editor
+News Editor
+Associate News Editor Foreign Editor Life Editor
+Sports Editor Rahul Pathak, Lim Chuan Huat, Ravi Velloor, Vikram Khanna, Chua Mui Hoong, Audrey Quek Warren Fernandez Editor-in-Chief (English/Malay/Tamil Media Group) and The Straits Times Editor Ng Yat Chung Glen Francis SPH Chief Executive Officer Chief Technology Officer Anthony Tan Chua Wee Phong Sumiko Tan Associate Editors
+Print Editor Sunday Editor Deputy Chief Executive Officer Executive Vice-President (Circulatio­n)
+Managing Editor (English/Malay/Tamil Media Group) The Straits Times Executive Editor Deputy Editors Paul Cheong Abdul Hafiz Ignatius Low Dominic Nathan Helen Chia, Paul Jacob Chief Marketing Officer PRINTED AND DISTRIBUTE­D BY PRESSREADE­R PressReade­r.com +1 604 278 4604 ORIGINAL COPY . ORIGINAL COPY . ORIGINAL COPY . ORIGINAL COPY . ORIGINAL COPY . ORIGINAL COPY COPYRIGHT AND PROTECTED BY APPLICABLE LAW
+    </p>
+</section>
+
+
+
+    <footer>
+        <p><a href="/" class="logo"><span>PressReader</span></a></p>
+        <nav>
+            <ul>
+                    <li><a href="http://about.pressreader.com">Work with us</a></li>
+                    <li><a href="https://about.pressreader.com/news/">Blog</a></li>
+                    <li><a href="http://care.pressreader.com/hc/">Help center</a></li>
+                    <li><a href="https://itunes.apple.com/app/pressreader/id313904711?amp%3Bmt=8&amp;mt=8">Download on the App Store</a></li>
+                    <li><a href="https://play.google.com/store/apps/details?id=com.newspaperdirect.pressreader.android">Get it on App Store</a></li>
+            </ul>
+        </nav>
+        <p><a href="https://care.pressreader.com/hc/en-us/articles/206528495-Terms-of-Use" target="_blank">Terms of Use</a> / <a href="https://care.pressreader.com/hc/en-us/articles/205818089-Privacy-Policy" target="_blank">Privacy Policy</a> / <a href="https://care.pressreader.com/hc/en-us/articles/360038010812-Privacy-Notice-for-California-Residents" target="_blank">CCPA</a></p>
+        <p>© 2003-2020 PressReader</p>
+    </footer>
+    
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments);
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g;
+                m.parentNode.insertBefore(a, m);
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        </script>
+        <script>
+        ga('create', 'UA-44408245-1');
+        ga('send', 'pageView');
+        </script>
+</body>
+</html>

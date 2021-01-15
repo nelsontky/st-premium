@@ -20,11 +20,38 @@
         p, h1, h2, h3 {
             max-width: 100%;
         }
+
+        .logo {
+            display: inline-block;
+            max-width: 100%;
+            width: 100%;
+            height:100px;
+            text-indent: -10000px;
+            overflow: hidden;
+            background-image: url( https://r.prcdn.co/res//en-US/g3416/t0/2/images/pr-logo-new.svg );
+            background-repeat: no-repeat;
+            background-position: top left;
+        }
+        figure {
+            border:0;
+            padding: 0;
+            margin: auto;
+        }
     </style>
 </head>
 <body>
-    <div>
-        
+    <header>
+        <p><a href="/" class="logo"><span>PressReader</span></a></p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="/catalog">Catalog</a></li>
+            <li><a href="/">Home feed</a></li>
+        </ul>
+    </nav>
+
+    
 <h1>News - <a href="/catalog">Publications</a></h1>
 
 <ul>
@@ -746,6 +773,9 @@
             <a href="/uk/ayrshire-post/textview">Ayrshire Post</a>
         </li>
         <li>
+            <a href="/azerbaijan/azer-news/textview">Azer News</a>
+        </li>
+        <li>
             <a href="/azerbaijan/azeri-observer/textview">Azeri Observer</a>
         </li>
         <li>
@@ -1437,6 +1467,9 @@
         </li>
         <li>
             <a href="/south-africa/daily-news-south-africa/textview">Daily News</a>
+        </li>
+        <li>
+            <a href="/usa/daily-news-red-bluff/textview">Daily News (Red Bluff)</a>
         </li>
         <li>
             <a href="/thailand/daily-news-thailand/textview">Daily News Thailand</a>
@@ -2205,6 +2238,9 @@
         </li>
         <li>
             <a href="/spain/el-siglo-de-europa/textview">El Siglo de Europa</a>
+        </li>
+        <li>
+            <a href="/spain/especialesf66d/textview">El Siglo de Europa - Especiales</a>
         </li>
         <li>
             <a href="/mexico/el-sol-de-acapulco/textview">El Sol de Acapulco</a>
@@ -3116,9 +3152,6 @@
             <a href="/israel/israel-hayom/textview">Israel Hayom</a>
         </li>
         <li>
-            <a href="/israel/israel-news-faxx/textview">Israel News Faxx</a>
-        </li>
-        <li>
             <a href="/belarus/ivatsevitski-vesnik/textview">Ivatsevitski Vesnik</a>
         </li>
         <li>
@@ -3758,6 +3791,12 @@
             <a href="/spain/la-voz-de-galicia-ferrol-especial1/textview">La Voz de Galicia (Ferrol) - La Voz de Galicia (Ferrol) - Especial1</a>
         </li>
         <li>
+            <a href="/spain/la-voz-de-galicia-lugo-especial3/textview">La Voz de Galicia (Lugo) - La Voz de Galicia (Lugo) - Especial3</a>
+        </li>
+        <li>
+            <a href="/spain/la-voz-de-galicia-monforte-especial3/textview">La Voz de Galicia (Monforte) - La Voz de Galicia (Monforte) - Especial3</a>
+        </li>
+        <li>
             <a href="/spain/la-voz-de-galicia-ourense-especial3/textview">La Voz de Galicia (Ourense) - Especial3</a>
         </li>
         <li>
@@ -4181,10 +4220,10 @@
             <a href="/india/mail-today/textview">Mail Today</a>
         </li>
         <li>
-            <a href="/japan/mainichi-shimbun/textview">Mainichi Shimbun</a>
+            <a href="/japan/mainichi-shimbun-japan/textview">Mainichi Shimbun</a>
         </li>
         <li>
-            <a href="/japan/mainichi-shimbun-japan/textview">Mainichi Shimbun</a>
+            <a href="/japan/mainichi-shimbun/textview">Mainichi Shimbun</a>
         </li>
         <li>
             <a href="/belarus/majak-prydniaprowja/textview">Majak Prydniaprowja</a>
@@ -4409,7 +4448,7 @@
             <a href="/india/millennium-post/textview">Millennium Post</a>
         </li>
         <li>
-            <a href="/india/millennium-post-kolkata/textview">Millennium Post Kolkata</a>
+            <a href="/india/millennium-post-kolkata/textview">Millennium Post (Kolkata)</a>
         </li>
         <li>
             <a href="/turkey/milliyet/textview">Milliyet</a>
@@ -5183,6 +5222,9 @@
             <a href="/canada/penticton-herald/textview">Penticton Herald</a>
         </li>
         <li>
+            <a href="/nepal/people-s-review-weekly/textview">People&#x27;s Review Weekly</a>
+        </li>
+        <li>
             <a href="/argentina/perfil-domingo/textview">Perfil (Domingo)</a>
         </li>
         <li>
@@ -5424,6 +5466,9 @@
         </li>
         <li>
             <a href="/mexico/real-madrid/textview">Real Madrid</a>
+        </li>
+        <li>
+            <a href="/greece/realnews/textview">Realnews</a>
         </li>
         <li>
             <a href="/mexico/record/textview">Record</a>
@@ -5972,7 +6017,7 @@
             <a href="/usa/sun-sentinel-palm-beach-edition/textview">Sun Sentinel Palm Beach Edition</a>
         </li>
         <li>
-            <a href="/philippines/sun-start-bacolod/textview">Sun Star Bacolod</a>
+            <a href="/philippines/sun-star-bacolod/textview">Sun Star Bacolod</a>
         </li>
         <li>
             <a href="/philippines/sunstar-baguio/textview">Sun.Star Baguio</a>
@@ -5993,13 +6038,13 @@
             <a href="/philippines/sunstar-pampanga/textview">Sun.Star Pampanga</a>
         </li>
         <li>
-            <a href="/lesotho/sunday-express-9f83/textview">Sunday Express</a>
+            <a href="/india/sunday-express-8291/textview">Sunday Express</a>
         </li>
         <li>
             <a href="/uk/sunday-express-1070/textview">Sunday Express</a>
         </li>
         <li>
-            <a href="/india/sunday-express-8291/textview">Sunday Express</a>
+            <a href="/lesotho/sunday-express-9f83/textview">Sunday Express</a>
         </li>
         <li>
             <a href="/australia/sunday-herald-sun/textview">Sunday Herald Sun</a>
@@ -6365,10 +6410,10 @@
             <a href="/canada/the-chatham-daily-news/textview">The Chatham Daily News</a>
         </li>
         <li>
-            <a href="/uk/the-chronicle-9c96/textview">The Chronicle</a>
+            <a href="/australia/the-chronicle-8992/textview">The Chronicle</a>
         </li>
         <li>
-            <a href="/australia/the-chronicle-8992/textview">The Chronicle</a>
+            <a href="/uk/the-chronicle-9c96/textview">The Chronicle</a>
         </li>
         <li>
             <a href="/canada/the-chronicle-herald-metro/textview">The Chronicle Herald (Metro)</a>
@@ -7541,10 +7586,10 @@
             <a href="/canada/the-west-coast-wire/textview">The West Coast Wire</a>
         </li>
         <li>
-            <a href="/australia/the-western-star-8986/textview">The Western Star</a>
+            <a href="/canada/the-western-star/textview">The Western Star</a>
         </li>
         <li>
-            <a href="/canada/the-western-star/textview">The Western Star</a>
+            <a href="/australia/the-western-star-8986/textview">The Western Star</a>
         </li>
         <li>
             <a href="/usa/the-wichita-eagle/textview">The Wichita Eagle</a>
@@ -8276,10 +8321,22 @@
 
 
 
-    </div>
-    
-    <p><a href="http://www.pressreader.com">© PressReader. All rights reserved.</a></p>
 
+    <footer>
+        <p><a href="/" class="logo"><span>PressReader</span></a></p>
+        <nav>
+            <ul>
+                    <li><a href="http://about.pressreader.com">Work with us</a></li>
+                    <li><a href="https://about.pressreader.com/news/">Blog</a></li>
+                    <li><a href="http://care.pressreader.com/hc/">Help center</a></li>
+                    <li><a href="https://itunes.apple.com/app/pressreader/id313904711?amp%3Bmt=8&amp;mt=8">Download on the App Store</a></li>
+                    <li><a href="https://play.google.com/store/apps/details?id=com.newspaperdirect.pressreader.android">Get it on App Store</a></li>
+            </ul>
+        </nav>
+        <p><a href="https://care.pressreader.com/hc/en-us/articles/206528495-Terms-of-Use" target="_blank">Terms of Use</a> / <a href="https://care.pressreader.com/hc/en-us/articles/205818089-Privacy-Policy" target="_blank">Privacy Policy</a> / <a href="https://care.pressreader.com/hc/en-us/articles/360038010812-Privacy-Notice-for-California-Residents" target="_blank">CCPA</a></p>
+        <p>© 2003-2020 PressReader</p>
+    </footer>
+    
         <script>
             (function (i, s, o, g, r, a, m) {
                 i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
@@ -8290,8 +8347,8 @@
             })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
         </script>
         <script>
-            ga('create', 'UA-44408245-1');
-            ga('send', 'pageView');
+        ga('create', 'UA-44408245-1');
+        ga('send', 'pageView');
         </script>
 </body>
 </html>

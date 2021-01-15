@@ -23,6 +23,7 @@ services:
     working_dir: /scrape
     volumes:
       - ./scrape:/scrape
+    restart: always
 
 volumes:
   st-premium-mongo:

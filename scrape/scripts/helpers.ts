@@ -10,7 +10,9 @@ export function getSgDate() {
 
   const yyyy = sgDate.getFullYear();
   const mm = (sgDate.getMonth() + 1).toString().padStart(2, "0");
-  const dd = sgDate.getDate().toString().padStart(2, "0");
+
+  // Download 1 day later
+  const dd = (sgDate.getDate() - 1).toString().padStart(2, "0");
 
   return yyyy + mm + dd;
 }

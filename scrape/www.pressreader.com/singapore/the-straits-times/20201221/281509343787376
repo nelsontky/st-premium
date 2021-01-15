@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hack at&#xAD;tack worse than thought - PressReader</title>
+    <meta name="description" content="Much re&#xAD;mains un&#xAD;known, in&#xAD;clud&#xAD;ing full ex&#xAD;tent of dam&#xAD;age">
+    <meta content="magazines, newspapers, digital news, reading, news, breaking news, newspaper online" name="keywords">
+    <meta name="Robots" content="NOARCHIVE,NOODP">
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+    <link rel="canonical" href="/singapore/the-straits-times/20201221/281509343787376" />
+
+
+    <style>
+        li {
+            margin: 1em 0;
+        }
+        img {
+            max-width: 100%;
+        }
+        p, h1, h2, h3 {
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        
+
+<article>
+    <h1>Hack at&#xAD;tack worse than thought</h1>
+    <h2>Much re&#xAD;mains un&#xAD;known, in&#xAD;clud&#xAD;ing full ex&#xAD;tent of dam&#xAD;age</h2>
+    <section>
+        <a href="/singapore/the-straits-times/textview" title="The Straits Times">The Straits Times</a>
+        - <a href="/singapore/the-straits-times/20201221/textview" title="The Straits Times - 2020-12-21"><time>2020-12-21</time></a>
+        - <span>FRONT PAGE</span>
+        - <span role="byline">Irene Tham Tech Ed&#xAD;i&#xAD;tor itham@sph.com.sg</span>
+    </section>
+
+    <p>Ex­perts said un­plug­ging and patch­ing will not re­move the threat.</p>
+    <p>Since the flaw in the Orion tools has been ex­ploited for some nine months now, all kinds of Tro­jan or ma­li­cious mal­ware could have al­ready been planted through­out many IT net­works – in routers, switches, servers and computers. Fur­ther­more, ex­ist­ing cy­ber se­cu­rity tools are lim­ited in that they tar­get only known threats and will not be able to iso­late un­known mal­ware planted by the So­larWinds hack­ers.</p>
+    <p>A mad scram­ble to clean up IT sys­tems en­sued af­ter a Rus­sia-linked hack­ing ex­posed top gov­ern­ment agen­cies in the United States and many For­tune 500 com­pa­nies to data theft.</p>
+    <p>At the cen­tre of the global frenzy: Austin, Texas-based IT man­age­ment soft­ware firm So­larWinds.</p>
+    <p>Hack­ers in­serted a ma­li­cious pro­gram into So­larWinds’ pop­u­lar Orion IT man­age­ment tool as a bridge­head for later at­tacks. Some 18,000 So­larWinds cus­tomers that down­loaded soft­ware up­dates be­tween March and June this year were re­port­edly in­fected.</p>
+    <p>The full ex­tent of the dam­age has yet to be de­ter­mined, but the United States ap­pears to be the tar­get for now, ex­perts said.</p>
+    <p>Or­gan­i­sa­tions in Sin­ga­pore that use So­larWinds tools are not out of the woods – even though the Cy­ber Se­cu­rity Agency (CSA) of Sin­ga­pore said last week that it did not be­lieve Sin­ga­pore was a tar­get.</p>
+    <p>A net­work ex­pert work­ing in a crit­i­cal ser­vice sec­tor here told The Straits Times: “The hack­ers are play­ing a wait­ing game.”</p>
+    <p>Much about the at­tack re­mains un­known, mak­ing it the most men­ac­ing cy­ber at­tack in re­cent times, he said.</p>
+    <p>TIP OF THE ICE­BERG</p>
+    <p>Why should ev­ery­one sit up?</p>
+    <p>The com­pro­mised So­larWinds tools cover both the breadth and depth of most ma­jor IT net­works.</p>
+    <p>The breadth of the breach is am­pli­fied through the global reach of US tech giants Mi­crosoft, Cisco Sys­tems and FireEye, which have all em­bed­ded some So­larWinds soft­ware in their prod­ucts.</p>
+    <p>Mi­crosoft, Cisco Sys­tems and FireEye serve hun­dreds of thou­sands of cus­tomers glob­ally, in­clud­ing gov­ern­ments and firms pro­vid­ing crit­i­cal ser­vices such as fi­nance and telecom­mu­ni­ca­tions.</p>
+    <p>In Sin­ga­pore, FireEye works with telco Sing­tel to pro­vide cy­ber se­cu­rity mon­i­tor­ing ser­vices to cus­tomers.</p>
+    <p>FireEye also works closely with the CSA to pro­tect Sin­ga­pore’s crit­i­cal ser­vices.</p>
+    <p>Mi­crosoft, Cisco Sys­tems and FireEye have all ad­mit­ted their sys­tems were ex­posed to the ma­li­cious pro­gram, be­lieved to be cre­ated by Rus­sia-spon­sored hack­ers.</p>
+    <p>“It just goes to show how in­ter­con­nected the world is and we need to be more vig­i­lant against sup­ply chain at­tacks,” said Mr Ian Loe, chief tech­nol­ogy of­fi­cer of NE Dig­i­tal, which leads the dig­i­tal trans­for­ma­tion of NTUC So­cial En­ter­prises.</p>
+    <p>Sup­ply-chain hack­ing at­tacks tar­get com­monly used com­po­nents, such as the So­larWind tools, which in turn sub­ject larger sys­tems or net­works to cy­ber risks. Ex­perts rec­om­mend strict con­trol of an in­sti­tu­tion’s sup­ply net­work to limit ex­po­sure risks.</p>
+    <p>The depth of the breach can be traced to So­larWinds’ Orion net­work con­fig­u­ra­tion man­ager.</p>
+    <p>As the tool al­lows for the ef­fi­cient man­age­ment and con­trol of an IT net­work built with sys­tems from mul­ti­ple ven­dors, it is pop­u­lar with most cus­tomers of So­larWinds.</p>
+    <p>How­ever, the tool pro­vides ad­min­is­tra­tive ac­cess rights to all net­work equip­ment in­clud­ing routers, switches, servers and computers con­nected to the net­work – its Achilles heel when ex­ploited by hack­ers.</p>
+    <p>The Sin­ga­pore Civil De­fence Force, for one, uses many mod­ules of So­larWinds’ Orion suite, in­clud­ing its net­work con­fig­u­ra­tion man­ager.</p>
+    <p>Fol­low­ing news of the breach, the CSA has rec­om­mended that or­gan­i­sa­tions dis­con­nect So­larWinds’ Orion prod­ucts from their net­works. So­larWinds has also rolled out soft­ware patches to plug the se­cu­rity gaps.</p>
+    <p>But ex­perts said un­plug­ging and patch­ing will not re­move the threat.</p>
+    <p>Since the flaw in the Orion tools has been ex­ploited for some nine months now, all kinds of Tro­jan or ma­li­cious mal­ware could have al­ready been planted through­out many IT net­works – in routers, switches, servers and computers.</p>
+    <p>Fur­ther­more, ex­ist­ing cy­ber se­cu­rity tools are lim­ited in that they tar­get only known threats and will not be able to iso­late un­known mal­ware planted by the So­larWinds hack­ers.</p>
+    <p>If the hack­ers had de­signed the Tro­jan to be stealthy to gain in­tel­li­gence or steal in­for­ma­tion, it can stay undis­cov­ered for a long time. These at­tacks are known as ad­vanced per­sis­tent threats (APTs).</p>
+    <p>One ex­am­ple of an APT is the 2018 cy­ber at­tack in Sin­ga­pore that led to the leak of 1.5 mil­lion SingHealth pa­tients’ per­sonal data, in­clud­ing Prime Min­is­ter Lee Hsien Loong’s pre­scrip­tion data.</p>
+    <p>Sep­a­rately, ST un­der­stands that some or­gan­i­sa­tions have started to re­in­stall sys­tem soft­ware to clean up their net­works. This, too, will not re­move the threat as com­pa­nies have to restart from backed-up cor­po­rate data, which may have resided in servers where ma­li­cious mal­ware was in­jected.</p>
+    <p>There­fore, the ex­act dam­age from the So­larWinds breach re­mains to be dis­cov­ered. IT ad­min­is­tra­tors need to give the Tro­jan time to sur­face.</p>
+    <p>They should con­tinue to scan for un­usual user traf­fic, or what is known as net­work anom­alies. Ar­ti­fi­cial in­tel­li­gence (AI) tools can do the scan­ning at scale but the AI ma­chines need time to learn what is nor­mal and what is not.</p>
+    <p>The cy­ber war is not over yet.</p>
+
+    <div>
+        <picture>
+            <img src="https://i.prcdn.co/img?regionKey=rHN%2fdtqyOVpVq%2bTei1uuuQ%3d%3d" />
+        </picture>
+        <span role="byline"></span>
+        <p data-role="text"></p>
+    </div>
+    <div>
+        <picture>
+            <img src="https://i.prcdn.co/img?regionKey=PrVZyFUQHUg0AlZ%2faEk9rA%3d%3d" />
+        </picture>
+        <span role="byline">PHOTO: REUTERS</span>
+        <p data-role="text">The So&#xAD;larWinds head&#xAD;quar&#xAD;ters in Austin, Texas. Or&#xAD;gan&#xAD;i&#xAD;sa&#xAD;tions in Sin&#xAD;ga&#xAD;pore that use So&#xAD;larWinds tools are not out of the woods yet. The hack&#xAD;ers could be play&#xAD;ing a wait&#xAD;ing game.</p>
+    </div>
+    <div>
+        <picture>
+            <img src="https://i.prcdn.co/img?regionKey=wPt2HPBJPB5DpNwGxFHD7w%3d%3d" />
+        </picture>
+        <span role="byline"></span>
+        <p data-role="text"></p>
+    </div>
+
+</article>
+
+<section>
+    <h3><a href="/catalog/language/english">Newspapers in English</a></h3>
+    <h3><a href="/catalog/country/singapore">Newspapers from Singapore</a></h3>
+</section>
+
+    </div>
+    
+    <p><a href="http://www.pressreader.com">© PressReader. All rights reserved.</a></p>
+
+        <script>
+            (function (i, s, o, g, r, a, m) {
+                i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                    (i[r].q = i[r].q || []).push(arguments);
+                }, i[r].l = 1 * new Date();
+                a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g;
+                m.parentNode.insertBefore(a, m);
+            })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+        </script>
+        <script>
+            ga('create', 'UA-44408245-1');
+            ga('send', 'pageView');
+        </script>
+</body>
+</html>
